@@ -1,0 +1,42 @@
+{
+  "BlockType": {
+    "BlockParticleSetId": "Stone",
+    "BlockSoundSetId": "Plushie",
+    "CustomModel": "Blocks/Heads/Shadow_Knight/Shadow_Knight.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Heads/Shadow_Knight/Texture.png",
+        "Weight": 1
+      }
+    ],
+    "DrawType": "Model",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "Group": "Wood",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "PhysicalMaterialId": "Wool",
+    "VariantRotation": "NESW"
+  },
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "Icon": "Icons/ItemsGenerated/Heads/Shadow_Knight.png",
+  "Interactions": {
+    "Primary": "Block_Primary",
+    "Secondary": "Block_Secondary"
+  },
+  "ItemSoundSetId": "ISS_Blocks_Wood",
+  "PlayerAnimationsId": "Item",
+  "Tags": {
+    "Type": [
+      "Deco"
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "Shadow_Knight"
+  }
+}

@@ -1,0 +1,30 @@
+{
+    "Group": "Marggx",
+    "Name": "MobHeads",
+    "Version": "0.1.0",
+    "Description": "A Plugin that adds all Mob Heads as Blocks",
+    "Authors": [
+        {
+            "Name": "Marggx",
+            "Email": "hytale@marggx.dev",
+            "Url": "marggx.dev"
+        }
+    ],
+    "Website": "marggx.dev",
+    "Main": "dev.marggx.mobheads.MobHeadsPlugin",
+    "ServerVersion": "^0.5.7",
+    "Dependencies": {
+        "Hytale:AssetModule": "*"
+    },
+    "OptionalDependencies": {
+        
+    },
+    "LoadBefore": {
+        
+    },
+    "DisabledByDefault": false,
+    "IncludesAssetPack": true,
+    "SubPlugins": [
+        
+    ]
+}
