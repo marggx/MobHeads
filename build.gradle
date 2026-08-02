@@ -130,9 +130,6 @@ idea.project.settings.runConfigurations {
         moduleName = project.idea.module.name + '.main'
         programParameters = createServerRunArguments(sourceSets.main.java.srcDirs.first().parentFile.absolutePath)
         workingDirectory = serverRunDir.absolutePath
-        envs = [
-                "HYTALE_JAR_DIR": jarDir
-        ]
     }
 }
 
