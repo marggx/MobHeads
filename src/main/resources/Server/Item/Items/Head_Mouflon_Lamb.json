@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Mouflon_Lamb/Mouflon_Lamb.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Mouflon_Lamb/Texture.png",
+        "Texture": "Blocks/Heads/Mouflon_Lamb/Head_Mouflon_Lamb.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Mouflon_Lamb.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Mouflon_Lamb.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Mouflon_Lamb"
+    "Name": "Head_Mouflon_Lamb"
   }
 }

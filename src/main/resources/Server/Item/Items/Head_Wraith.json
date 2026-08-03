@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Wraith/Wraith.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Wraith/Texture.png",
+        "Texture": "Blocks/Heads/Wraith/Head_Wraith.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Wraith.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Wraith.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Wraith"
+    "Name": "Head_Wraith"
   }
 }

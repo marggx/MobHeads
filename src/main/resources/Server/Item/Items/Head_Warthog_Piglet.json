@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Warthog_Piglet/Warthog_Piglet.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Warthog_Piglet/Texture.png",
+        "Texture": "Blocks/Heads/Warthog_Piglet/Head_Warthog_Piglet.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Warthog_Piglet.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Warthog_Piglet.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Warthog_Piglet"
+    "Name": "Head_Warthog_Piglet"
   }
 }

@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Ram/Ram.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Ram/Texture.png",
+        "Texture": "Blocks/Heads/Ram/Head_Ram.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Ram.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Ram.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Ram"
+    "Name": "Head_Ram"
   }
 }

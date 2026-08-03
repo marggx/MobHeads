@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Feran_Cub/Feran_Cub.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Feran_Cub/Texture.png",
+        "Texture": "Blocks/Heads/Feran_Cub/Head_Feran_Cub.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Feran_Cub.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Feran_Cub.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Feran_Cub"
+    "Name": "Head_Feran_Cub"
   }
 }

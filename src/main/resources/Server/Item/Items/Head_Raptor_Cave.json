@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Raptor_Cave/Raptor_Cave.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Raptor_Cave/Texture.png",
+        "Texture": "Blocks/Heads/Raptor_Cave/Head_Raptor_Cave.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Raptor_Cave.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Raptor_Cave.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Raptor_Cave"
+    "Name": "Head_Raptor_Cave"
   }
 }

@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Bramblekin/Bramblekin.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Bramblekin/Texture.png",
+        "Texture": "Blocks/Heads/Bramblekin/Head_Bramblekin.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Bramblekin.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Bramblekin.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Bramblekin"
+    "Name": "Head_Bramblekin"
   }
 }

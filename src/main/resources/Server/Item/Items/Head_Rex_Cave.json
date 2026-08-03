@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Rex_Cave/Rex_Cave.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Rex_Cave/Texture.png",
+        "Texture": "Blocks/Heads/Rex_Cave/Head_Rex_Cave.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Rex_Cave.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Rex_Cave.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Rex_Cave"
+    "Name": "Head_Rex_Cave"
   }
 }

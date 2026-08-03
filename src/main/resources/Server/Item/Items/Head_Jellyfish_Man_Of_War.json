@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Jellyfish_Man_Of_War/Jellyfish_Man_Of_War.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Jellyfish_Man_Of_War/Texture.png",
+        "Texture": "Blocks/Heads/Jellyfish_Man_Of_War/Head_Jellyfish_Man_Of_War.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Jellyfish_Man_Of_War.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Jellyfish_Man_Of_War.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Jellyfish_Man_Of_War"
+    "Name": "Head_Jellyfish_Man_Of_War"
   }
 }

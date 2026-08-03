@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Spawn_Void/Spawn_Void.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Spawn_Void/Texture.png",
+        "Texture": "Blocks/Heads/Spawn_Void/Head_Spawn_Void.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Spawn_Void.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Spawn_Void.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Spawn_Void"
+    "Name": "Head_Spawn_Void"
   }
 }

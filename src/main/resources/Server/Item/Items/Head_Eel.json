@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Eel/Eel.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Eel/Texture.png",
+        "Texture": "Blocks/Heads/Eel/Head_Eel.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Eel.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Eel.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Eel"
+    "Name": "Head_Eel"
   }
 }

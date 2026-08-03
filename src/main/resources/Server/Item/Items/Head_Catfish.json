@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Catfish/Catfish.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Catfish/Texture.png",
+        "Texture": "Blocks/Heads/Catfish/Head_Catfish.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Catfish.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Catfish.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Catfish"
+    "Name": "Head_Catfish"
   }
 }

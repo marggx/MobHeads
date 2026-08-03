@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Camel/Camel.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Camel/Texture.png",
+        "Texture": "Blocks/Heads/Camel/Head_Camel.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Camel.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Camel.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Camel"
+    "Name": "Head_Camel"
   }
 }

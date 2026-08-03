@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Bear_Grizzly/Bear_Grizzly.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Bear_Grizzly/Texture.png",
+        "Texture": "Blocks/Heads/Bear_Grizzly/Head_Bear_Grizzly.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Bear_Grizzly.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Bear_Grizzly.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Bear_Grizzly"
+    "Name": "Head_Bear_Grizzly"
   }
 }

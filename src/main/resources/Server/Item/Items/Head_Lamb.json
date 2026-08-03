@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Lamb/Lamb.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Lamb/Texture.png",
+        "Texture": "Blocks/Heads/Lamb/Head_Lamb.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Lamb.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Lamb.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Lamb"
+    "Name": "Head_Lamb"
   }
 }

@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Pterodactyl/Pterodactyl.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Pterodactyl/Texture.png",
+        "Texture": "Blocks/Heads/Pterodactyl/Head_Pterodactyl.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Pterodactyl.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Pterodactyl.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Pterodactyl"
+    "Name": "Head_Pterodactyl"
   }
 }

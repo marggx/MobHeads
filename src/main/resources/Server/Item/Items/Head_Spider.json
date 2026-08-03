@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Spider/Spider.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Spider/Texture.png",
+        "Texture": "Blocks/Heads/Spider/Head_Spider.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Spider.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Spider.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Spider"
+    "Name": "Head_Spider"
   }
 }

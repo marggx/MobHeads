@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Vulture/Vulture.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Vulture/Texture.png",
+        "Texture": "Blocks/Heads/Vulture/Head_Vulture.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Vulture.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Vulture.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Vulture"
+    "Name": "Head_Vulture"
   }
 }

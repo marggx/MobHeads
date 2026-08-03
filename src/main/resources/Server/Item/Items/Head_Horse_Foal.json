@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Horse_Foal/Horse_Foal.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Horse_Foal/Texture.png",
+        "Texture": "Blocks/Heads/Horse_Foal/Head_Horse_Foal.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Horse_Foal.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Horse_Foal.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Horse_Foal"
+    "Name": "Head_Horse_Foal"
   }
 }

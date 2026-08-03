@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Pig_Undead/Pig_Undead.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Pig_Undead/Texture.png",
+        "Texture": "Blocks/Heads/Pig_Undead/Head_Pig_Undead.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Pig_Undead.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Pig_Undead.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Pig_Undead"
+    "Name": "Head_Pig_Undead"
   }
 }

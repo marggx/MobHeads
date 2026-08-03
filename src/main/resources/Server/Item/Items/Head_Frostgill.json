@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Frostgill/Frostgill.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Frostgill/Texture.png",
+        "Texture": "Blocks/Heads/Frostgill/Head_Frostgill.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Frostgill.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Frostgill.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Frostgill"
+    "Name": "Head_Frostgill"
   }
 }

@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Molerat/Molerat.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Molerat/Texture.png",
+        "Texture": "Blocks/Heads/Molerat/Head_Molerat.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Molerat.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Molerat.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Molerat"
+    "Name": "Head_Molerat"
   }
 }

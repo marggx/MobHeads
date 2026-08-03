@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Shark_Hammerhead/Shark_Hammerhead.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Shark_Hammerhead/Texture.png",
+        "Texture": "Blocks/Heads/Shark_Hammerhead/Head_Shark_Hammerhead.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Shark_Hammerhead.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Shark_Hammerhead.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Shark_Hammerhead"
+    "Name": "Head_Shark_Hammerhead"
   }
 }

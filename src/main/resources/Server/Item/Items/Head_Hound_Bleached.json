@@ -1,0 +1,42 @@
+{
+  "BlockType": {
+    "BlockParticleSetId": "Stone",
+    "BlockSoundSetId": "Plushie",
+    "CustomModel": "Blocks/Heads/Hound_Bleached/Hound_Bleached.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Heads/Hound_Bleached/Head_Hound_Bleached.png",
+        "Weight": 1
+      }
+    ],
+    "DrawType": "Model",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "Group": "Wood",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "PhysicalMaterialId": "Wool",
+    "VariantRotation": "NESW"
+  },
+  "Categories": [
+    "Heads.Heads"
+  ],
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Hound_Bleached.png",
+  "Interactions": {
+    "Primary": "Block_Primary",
+    "Secondary": "Block_Secondary"
+  },
+  "ItemSoundSetId": "ISS_Blocks_Wood",
+  "PlayerAnimationsId": "Item",
+  "Tags": {
+    "Type": [
+      "Deco"
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "Head_Hound_Bleached"
+  }
+}

@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Werewolf/Werewolf.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Werewolf/Texture.png",
+        "Texture": "Blocks/Heads/Werewolf/Head_Werewolf.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Werewolf.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Werewolf.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Werewolf"
+    "Name": "Head_Werewolf"
   }
 }

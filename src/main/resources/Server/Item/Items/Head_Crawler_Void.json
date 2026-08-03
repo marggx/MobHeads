@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Crawler_Void/Crawler_Void.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Crawler_Void/Texture.png",
+        "Texture": "Blocks/Heads/Crawler_Void/Head_Crawler_Void.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Crawler_Void.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Crawler_Void.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Crawler_Void"
+    "Name": "Head_Crawler_Void"
   }
 }

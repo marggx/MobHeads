@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Ghoul/Ghoul.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Ghoul/Texture.png",
+        "Texture": "Blocks/Heads/Ghoul/Head_Ghoul.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Ghoul.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Ghoul.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Ghoul"
+    "Name": "Head_Ghoul"
   }
 }

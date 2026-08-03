@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Turkey_Chick/Turkey_Chick.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Turkey_Chick/Texture.png",
+        "Texture": "Blocks/Heads/Turkey_Chick/Head_Turkey_Chick.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Turkey_Chick.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Turkey_Chick.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Turkey_Chick"
+    "Name": "Head_Turkey_Chick"
   }
 }

@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Dog/Dog.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Dog/Texture.png",
+        "Texture": "Blocks/Heads/Dog/Head_Dog.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Dog.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Dog.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Dog"
+    "Name": "Head_Dog"
   }
 }

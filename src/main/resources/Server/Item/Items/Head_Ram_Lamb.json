@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Ram_Lamb/Ram_Lamb.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Ram_Lamb/Texture.png",
+        "Texture": "Blocks/Heads/Ram_Lamb/Head_Ram_Lamb.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Ram_Lamb.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Ram_Lamb.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Ram_Lamb"
+    "Name": "Head_Ram_Lamb"
   }
 }

@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Warthog/Warthog.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Warthog/Texture.png",
+        "Texture": "Blocks/Heads/Warthog/Head_Warthog.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Warthog.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Warthog.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Warthog"
+    "Name": "Head_Warthog"
   }
 }

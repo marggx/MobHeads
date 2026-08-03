@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Tetrabird/Tetrabird.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Tetrabird/Texture.png",
+        "Texture": "Blocks/Heads/Tetrabird/Head_Tetrabird.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Tetrabird.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Tetrabird.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Tetrabird"
+    "Name": "Head_Tetrabird"
   }
 }

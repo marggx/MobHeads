@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Kweebec_Seedling/Kweebec_Seedling.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Kweebec_Seedling/Texture.png",
+        "Texture": "Blocks/Heads/Kweebec_Seedling/Head_Kweebec_Seedling.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Kweebec_Seedling.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Kweebec_Seedling.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Kweebec_Seedling"
+    "Name": "Head_Kweebec_Seedling"
   }
 }

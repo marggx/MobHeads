@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Camel_Calf/Camel_Calf.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Camel_Calf/Texture.png",
+        "Texture": "Blocks/Heads/Camel_Calf/Head_Camel_Calf.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Camel_Calf.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Camel_Calf.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Camel_Calf"
+    "Name": "Head_Camel_Calf"
   }
 }

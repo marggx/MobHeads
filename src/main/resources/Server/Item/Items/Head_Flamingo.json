@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Flamingo/Flamingo.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Flamingo/Texture.png",
+        "Texture": "Blocks/Heads/Flamingo/Head_Flamingo.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Flamingo.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Flamingo.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Flamingo"
+    "Name": "Head_Flamingo"
   }
 }

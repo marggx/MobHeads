@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Piranha_Black/Piranha_Black.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Piranha_Black/Texture.png",
+        "Texture": "Blocks/Heads/Piranha_Black/Head_Piranha_Black.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Piranha_Black.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Piranha_Black.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Piranha_Black"
+    "Name": "Head_Piranha_Black"
   }
 }

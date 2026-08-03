@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Bison/Bison.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Bison/Texture.png",
+        "Texture": "Blocks/Heads/Bison/Head_Bison.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Bison.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Bison.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Bison"
+    "Name": "Head_Bison"
   }
 }

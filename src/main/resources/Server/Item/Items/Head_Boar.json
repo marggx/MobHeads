@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Boar/Boar.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Boar/Texture.png",
+        "Texture": "Blocks/Heads/Boar/Head_Boar.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Boar.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Boar.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Boar"
+    "Name": "Head_Boar"
   }
 }

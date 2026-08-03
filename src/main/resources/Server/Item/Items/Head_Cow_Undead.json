@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Cow_Undead/Cow_Undead.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Cow_Undead/Texture.png",
+        "Texture": "Blocks/Heads/Cow_Undead/Head_Cow_Undead.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Cow_Undead.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Cow_Undead.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Cow_Undead"
+    "Name": "Head_Cow_Undead"
   }
 }

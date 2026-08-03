@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Hedera/Hedera.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Hedera/Texture.png",
+        "Texture": "Blocks/Heads/Hedera/Head_Hedera.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Hedera.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Hedera.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Hedera"
+    "Name": "Head_Hedera"
   }
 }

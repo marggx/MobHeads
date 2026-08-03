@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Tiger_Sabertooth/Tiger_Sabertooth.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Tiger_Sabertooth/Texture.png",
+        "Texture": "Blocks/Heads/Tiger_Sabertooth/Head_Tiger_Sabertooth.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Tiger_Sabertooth.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Tiger_Sabertooth.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Tiger_Sabertooth"
+    "Name": "Head_Tiger_Sabertooth"
   }
 }

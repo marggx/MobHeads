@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Snapdragon/Snapdragon.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Snapdragon/Texture.png",
+        "Texture": "Blocks/Heads/Snapdragon/Head_Snapdragon.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Snapdragon.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Snapdragon.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Snapdragon"
+    "Name": "Head_Snapdragon"
   }
 }

@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Bear_Polar/Bear_Polar.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Bear_Polar/Texture.png",
+        "Texture": "Blocks/Heads/Bear_Polar/Head_Bear_Polar.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Bear_Polar.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Bear_Polar.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Bear_Polar"
+    "Name": "Head_Bear_Polar"
   }
 }

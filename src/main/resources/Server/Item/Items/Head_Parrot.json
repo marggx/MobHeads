@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Parrot/Parrot.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Parrot/Texture.png",
+        "Texture": "Blocks/Heads/Parrot/Head_Parrot.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Parrot.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Parrot.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Parrot"
+    "Name": "Head_Parrot"
   }
 }

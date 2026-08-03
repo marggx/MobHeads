@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Archaeopteryx/Archaeopteryx.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Archaeopteryx/Texture.png",
+        "Texture": "Blocks/Heads/Archaeopteryx/Head_Archaeopteryx.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Archaeopteryx.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Archaeopteryx.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Archaeopteryx"
+    "Name": "Head_Archaeopteryx"
   }
 }

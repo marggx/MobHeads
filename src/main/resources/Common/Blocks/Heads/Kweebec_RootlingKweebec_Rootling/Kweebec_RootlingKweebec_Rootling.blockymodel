@@ -1,0 +1,1667 @@
+{
+  "nodes": [
+    {
+      "id": "5",
+      "name": "Head",
+      "children": [
+        {
+          "id": "6",
+          "name": "R-Eyebrow-Attachment",
+          "children": null,
+          "position": {
+            "x": -8,
+            "y": 6,
+            "z": 15.2
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "shape": {
+            "type": "none",
+            "offset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "stretch": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "settings": {},
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat",
+            "unwrapMode": "custom"
+          }
+        },
+        {
+          "id": "7",
+          "name": "L-Eyebrow-Attachment",
+          "children": null,
+          "position": {
+            "x": 8,
+            "y": 6,
+            "z": 15.2
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "shape": {
+            "type": "none",
+            "offset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "stretch": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "settings": {},
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat",
+            "unwrapMode": "custom"
+          }
+        },
+        {
+          "id": "8",
+          "name": "R-Eye-Attachment",
+          "children": null,
+          "position": {
+            "x": -7,
+            "y": -4,
+            "z": 14.4
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "shape": {
+            "type": "none",
+            "offset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "stretch": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "settings": {},
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat",
+            "unwrapMode": "custom"
+          }
+        },
+        {
+          "id": "9",
+          "name": "L-Eye-Attachment",
+          "children": null,
+          "position": {
+            "x": 7,
+            "y": -4,
+            "z": 14.4
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "shape": {
+            "type": "none",
+            "offset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "stretch": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "settings": {},
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat",
+            "unwrapMode": "custom"
+          }
+        },
+        {
+          "id": "10",
+          "name": "Mouth-Attachment",
+          "children": null,
+          "position": {
+            "x": 0,
+            "y": -10,
+            "z": 15.1
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "shape": {
+            "type": "none",
+            "offset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "stretch": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "settings": {},
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat",
+            "unwrapMode": "custom"
+          }
+        },
+        {
+          "id": "11",
+          "name": "L-Eyelid",
+          "children": null,
+          "position": {
+            "x": 8,
+            "y": 2,
+            "z": 14.9
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "shape": {
+            "type": "quad",
+            "offset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "stretch": {
+              "x": 1,
+              "y": 0.1,
+              "z": 1
+            },
+            "settings": {
+              "size": {
+                "x": 9,
+                "y": 9,
+                "z": 0
+              },
+              "normal": "+Z"
+            },
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat",
+            "unwrapMode": "custom",
+            "textureLayout": {
+              "front": {
+                "offset": {
+                  "x": 36,
+                  "y": 90
+                },
+                "mirror": {
+                  "x": false,
+                  "y": false
+                },
+                "angle": 0
+              }
+            }
+          }
+        },
+        {
+          "id": "12",
+          "name": "R-Eyelid",
+          "children": null,
+          "position": {
+            "x": -8,
+            "y": 2,
+            "z": 14.9
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "shape": {
+            "type": "quad",
+            "offset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "stretch": {
+              "x": -1,
+              "y": 0.1,
+              "z": 1
+            },
+            "settings": {
+              "size": {
+                "x": 9,
+                "y": 9,
+                "z": 0
+              },
+              "normal": "+Z"
+            },
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat",
+            "unwrapMode": "custom",
+            "textureLayout": {
+              "front": {
+                "offset": {
+                  "x": 36,
+                  "y": 90
+                },
+                "mirror": {
+                  "x": false,
+                  "y": false
+                },
+                "angle": 0
+              }
+            }
+          }
+        },
+        {
+          "id": "13",
+          "name": "L-Eyelid-Bot",
+          "children": null,
+          "position": {
+            "x": 8,
+            "y": -8,
+            "z": 14.8
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "shape": {
+            "type": "quad",
+            "offset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "stretch": {
+              "x": 1,
+              "y": 0.1,
+              "z": 1
+            },
+            "settings": {
+              "size": {
+                "x": 9,
+                "y": 6,
+                "z": 0
+              },
+              "normal": "+Z"
+            },
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat",
+            "unwrapMode": "custom",
+            "textureLayout": {
+              "front": {
+                "offset": {
+                  "x": 23,
+                  "y": 113
+                },
+                "mirror": {
+                  "x": false,
+                  "y": false
+                },
+                "angle": 0
+              }
+            }
+          }
+        },
+        {
+          "id": "14",
+          "name": "R-Eyelid-Bot",
+          "children": null,
+          "position": {
+            "x": -8,
+            "y": -8,
+            "z": 14.8
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "shape": {
+            "type": "quad",
+            "offset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "stretch": {
+              "x": -1,
+              "y": 0.1,
+              "z": 1
+            },
+            "settings": {
+              "size": {
+                "x": 9,
+                "y": 6,
+                "z": 0
+              },
+              "normal": "+Z"
+            },
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat",
+            "unwrapMode": "custom",
+            "textureLayout": {
+              "front": {
+                "offset": {
+                  "x": 23,
+                  "y": 113
+                },
+                "mirror": {
+                  "x": false,
+                  "y": false
+                },
+                "angle": 0
+              }
+            }
+          }
+        },
+        {
+          "id": "15",
+          "name": "R-Ear",
+          "children": [
+            {
+              "id": "16",
+              "name": "R-Ear2",
+              "children": [
+                {
+                  "id": "17",
+                  "name": "R-Ear2-Back",
+                  "children": null,
+                  "position": {
+                    "x": 4,
+                    "y": 0,
+                    "z": -0.01
+                  },
+                  "orientation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0,
+                    "w": 1
+                  },
+                  "shape": {
+                    "type": "quad",
+                    "offset": {
+                      "x": -4,
+                      "y": 0,
+                      "z": 0
+                    },
+                    "stretch": {
+                      "x": 1,
+                      "y": 1,
+                      "z": 1
+                    },
+                    "settings": {
+                      "size": {
+                        "x": 18,
+                        "y": 15,
+                        "z": 0
+                      },
+                      "normal": "-Z"
+                    },
+                    "visible": true,
+                    "doubleSided": true,
+                    "shadingMode": "flat",
+                    "unwrapMode": "custom",
+                    "textureLayout": {
+                      "front": {
+                        "offset": {
+                          "x": 36,
+                          "y": 90
+                        },
+                        "mirror": {
+                          "x": true,
+                          "y": false
+                        },
+                        "angle": 0
+                      }
+                    }
+                  }
+                }
+              ],
+              "position": {
+                "x": -7.49123,
+                "y": 7.74939,
+                "z": 1.82047
+              },
+              "orientation": {
+                "x": 0,
+                "y": 0,
+                "z": -0.08716,
+                "w": 0.99619
+              },
+              "shape": {
+                "type": "quad",
+                "offset": {
+                  "x": -4,
+                  "y": -7,
+                  "z": 0
+                },
+                "stretch": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 1
+                },
+                "settings": {
+                  "size": {
+                    "x": 18,
+                    "y": 15,
+                    "z": 0
+                  },
+                  "normal": "+Z"
+                },
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat",
+                "unwrapMode": "custom",
+                "textureLayout": {
+                  "front": {
+                    "offset": {
+                      "x": 0,
+                      "y": 90
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "18",
+              "name": "R-Ear-Protection",
+              "children": null,
+              "position": {
+                "x": 2.0037,
+                "y": 8.37623,
+                "z": 1
+              },
+              "orientation": {
+                "x": 0,
+                "y": 0,
+                "z": 0.08716,
+                "w": 0.99619
+              },
+              "shape": {
+                "type": "box",
+                "offset": {
+                  "x": -0.00001,
+                  "y": 0,
+                  "z": 0.00001
+                },
+                "stretch": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 1
+                },
+                "settings": {
+                  "size": {
+                    "x": 14.99999,
+                    "y": 7,
+                    "z": 8.99999
+                  }
+                },
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat",
+                "unwrapMode": "custom",
+                "textureLayout": {
+                  "back": {
+                    "offset": {
+                      "x": 43,
+                      "y": 105
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "bottom": {
+                    "offset": {
+                      "x": 43,
+                      "y": 105
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {
+                      "x": 43,
+                      "y": 105
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "left": {
+                    "offset": {
+                      "x": 0,
+                      "y": 113
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "right": {
+                    "offset": {
+                      "x": 0,
+                      "y": 113
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "top": {
+                    "offset": {
+                      "x": 15,
+                      "y": 105
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "19",
+              "name": "R-Ear-Protection2",
+              "children": null,
+              "position": {
+                "x": -9.68256,
+                "y": 7.54458,
+                "z": 0.77328
+              },
+              "orientation": {
+                "x": 0.00157,
+                "y": 0.03603,
+                "z": -0.04359,
+                "w": 0.9984
+              },
+              "shape": {
+                "type": "box",
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "stretch": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 1
+                },
+                "settings": {
+                  "size": {
+                    "x": 14,
+                    "y": 5,
+                    "z": 4
+                  }
+                },
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat",
+                "unwrapMode": "custom",
+                "textureLayout": {
+                  "back": {
+                    "offset": {
+                      "x": 32,
+                      "y": 113
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "bottom": {
+                    "offset": {
+                      "x": 0,
+                      "y": 120
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {
+                      "x": 32,
+                      "y": 113
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "left": {
+                    "offset": {
+                      "x": 60,
+                      "y": 90
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "right": {
+                    "offset": {
+                      "x": 57,
+                      "y": 105
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "top": {
+                    "offset": {
+                      "x": 46,
+                      "y": 113
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  }
+                }
+              }
+            }
+          ],
+          "position": {
+            "x": -13.06031,
+            "y": -6.66964,
+            "z": -1.54398
+          },
+          "orientation": {
+            "x": 0.12854,
+            "y": -0.02267,
+            "z": 0.17216,
+            "w": 0.97638
+          },
+          "shape": {
+            "type": "box",
+            "offset": {
+              "x": -5,
+              "y": 0,
+              "z": 0
+            },
+            "stretch": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "settings": {
+              "size": {
+                "x": 10,
+                "y": 16,
+                "z": 4
+              }
+            },
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat",
+            "unwrapMode": "custom",
+            "textureLayout": {
+              "back": {
+                "offset": {
+                  "x": 56,
+                  "y": 60
+                },
+                "mirror": {
+                  "x": true,
+                  "y": false
+                },
+                "angle": 0
+              },
+              "bottom": {
+                "offset": {
+                  "x": 14,
+                  "y": 120
+                },
+                "mirror": {
+                  "x": false,
+                  "y": false
+                },
+                "angle": 0
+              },
+              "front": {
+                "offset": {
+                  "x": 32,
+                  "y": 60
+                },
+                "mirror": {
+                  "x": false,
+                  "y": false
+                },
+                "angle": 0
+              },
+              "left": {
+                "offset": {
+                  "x": 46,
+                  "y": 60
+                },
+                "mirror": {
+                  "x": true,
+                  "y": false
+                },
+                "angle": 0
+              },
+              "top": {
+                "offset": {
+                  "x": 24,
+                  "y": 120
+                },
+                "mirror": {
+                  "x": false,
+                  "y": false
+                },
+                "angle": 0
+              }
+            }
+          }
+        },
+        {
+          "id": "20",
+          "name": "Head-Top",
+          "children": [
+            {
+              "id": "21",
+              "name": "Head-Top2",
+              "children": null,
+              "position": {
+                "x": -0.67954,
+                "y": 7,
+                "z": 0
+              },
+              "orientation": {
+                "x": -0.30071,
+                "y": 0,
+                "z": 0,
+                "w": 0.95372
+              },
+              "shape": {
+                "type": "box",
+                "offset": {
+                  "x": 0,
+                  "y": 6,
+                  "z": 0
+                },
+                "stretch": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 1
+                },
+                "settings": {
+                  "size": {
+                    "x": 38,
+                    "y": 12,
+                    "z": 0
+                  }
+                },
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat",
+                "unwrapMode": "custom",
+                "textureLayout": {
+                  "back": {
+                    "offset": {
+                      "x": 191,
+                      "y": 74
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {
+                      "x": 153,
+                      "y": 74
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "22",
+              "name": "Head-Top3",
+              "children": null,
+              "position": {
+                "x": 0.0232,
+                "y": 0.72412,
+                "z": -3.4693
+              },
+              "orientation": {
+                "x": -0.20219,
+                "y": -0.01544,
+                "z": -0.07458,
+                "w": 0.97638
+              },
+              "shape": {
+                "type": "box",
+                "offset": {
+                  "x": 0,
+                  "y": 6,
+                  "z": 0
+                },
+                "stretch": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 1
+                },
+                "settings": {
+                  "size": {
+                    "x": 15,
+                    "y": 26,
+                    "z": 0
+                  }
+                },
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat",
+                "unwrapMode": "custom",
+                "textureLayout": {
+                  "back": {
+                    "offset": {
+                      "x": 168,
+                      "y": 106
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {
+                      "x": 153,
+                      "y": 106
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  }
+                }
+              }
+            }
+          ],
+          "position": {
+            "x": 0,
+            "y": 9.10603,
+            "z": 15.04046
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "shape": {
+            "type": "box",
+            "offset": {
+              "x": 0,
+              "y": 5.5,
+              "z": 0
+            },
+            "stretch": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "settings": {
+              "size": {
+                "x": 38,
+                "y": 14,
+                "z": 0
+              }
+            },
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat",
+            "unwrapMode": "custom",
+            "textureLayout": {
+              "back": {
+                "offset": {
+                  "x": 191,
+                  "y": 86
+                },
+                "mirror": {
+                  "x": true,
+                  "y": false
+                },
+                "angle": 0
+              },
+              "front": {
+                "offset": {
+                  "x": 153,
+                  "y": 86
+                },
+                "mirror": {
+                  "x": false,
+                  "y": false
+                },
+                "angle": 0
+              }
+            }
+          }
+        },
+        {
+          "id": "23",
+          "name": "R-Head-Top",
+          "children": null,
+          "position": {
+            "x": -16,
+            "y": 15,
+            "z": 0
+          },
+          "orientation": {
+            "x": 0.12279,
+            "y": -0.69636,
+            "z": 0.12279,
+            "w": 0.69636
+          },
+          "shape": {
+            "type": "box",
+            "offset": {
+              "x": 0,
+              "y": 5.5,
+              "z": 0
+            },
+            "stretch": {
+              "x": 1.00029,
+              "y": 1.00029,
+              "z": 1.00029
+            },
+            "settings": {
+              "size": {
+                "x": 30,
+                "y": 11,
+                "z": 0
+              }
+            },
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat",
+            "unwrapMode": "custom",
+            "textureLayout": {
+              "back": {
+                "offset": {
+                  "x": 64,
+                  "y": 19
+                },
+                "mirror": {
+                  "x": false,
+                  "y": false
+                },
+                "angle": 0
+              },
+              "front": {
+                "offset": {
+                  "x": 94,
+                  "y": 19
+                },
+                "mirror": {
+                  "x": true,
+                  "y": false
+                },
+                "angle": 0
+              }
+            }
+          }
+        },
+        {
+          "id": "24",
+          "name": "L-Ear",
+          "children": [
+            {
+              "id": "25",
+              "name": "L-Ear2",
+              "children": [
+                {
+                  "id": "26",
+                  "name": "L-Ear2-Back",
+                  "children": null,
+                  "position": {
+                    "x": -4,
+                    "y": 0,
+                    "z": -0.01
+                  },
+                  "orientation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0,
+                    "w": 1
+                  },
+                  "shape": {
+                    "type": "quad",
+                    "offset": {
+                      "x": 4,
+                      "y": 0,
+                      "z": 0
+                    },
+                    "stretch": {
+                      "x": 1,
+                      "y": 1,
+                      "z": 1
+                    },
+                    "settings": {
+                      "size": {
+                        "x": 18,
+                        "y": 15,
+                        "z": 0
+                      },
+                      "normal": "-Z"
+                    },
+                    "visible": true,
+                    "doubleSided": true,
+                    "shadingMode": "flat",
+                    "unwrapMode": "custom",
+                    "textureLayout": {
+                      "front": {
+                        "offset": {
+                          "x": 18,
+                          "y": 90
+                        },
+                        "mirror": {
+                          "x": false,
+                          "y": false
+                        },
+                        "angle": 0
+                      }
+                    }
+                  }
+                }
+              ],
+              "position": {
+                "x": 7.49123,
+                "y": 7.74939,
+                "z": 1.82047
+              },
+              "orientation": {
+                "x": 0,
+                "y": 0,
+                "z": 0.08716,
+                "w": 0.99619
+              },
+              "shape": {
+                "type": "quad",
+                "offset": {
+                  "x": 4,
+                  "y": -7,
+                  "z": 0
+                },
+                "stretch": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 1
+                },
+                "settings": {
+                  "size": {
+                    "x": 18,
+                    "y": 15,
+                    "z": 0
+                  },
+                  "normal": "+Z"
+                },
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat",
+                "unwrapMode": "custom",
+                "textureLayout": {
+                  "front": {
+                    "offset": {
+                      "x": 18,
+                      "y": 90
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "27",
+              "name": "L-Ear-Protection",
+              "children": null,
+              "position": {
+                "x": -2.00369,
+                "y": 8.37623,
+                "z": 1
+              },
+              "orientation": {
+                "x": 0,
+                "y": 0,
+                "z": -0.08716,
+                "w": 0.99619
+              },
+              "shape": {
+                "type": "box",
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0.00001
+                },
+                "stretch": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 1
+                },
+                "settings": {
+                  "size": {
+                    "x": 15,
+                    "y": 7,
+                    "z": 8.99999
+                  }
+                },
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat",
+                "unwrapMode": "custom",
+                "textureLayout": {
+                  "back": {
+                    "offset": {
+                      "x": 23,
+                      "y": 113
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "bottom": {
+                    "offset": {
+                      "x": 60,
+                      "y": 90
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {
+                      "x": 23,
+                      "y": 113
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "left": {
+                    "offset": {
+                      "x": 64,
+                      "y": 60
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "right": {
+                    "offset": {
+                      "x": 64,
+                      "y": 60
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "top": {
+                    "offset": {
+                      "x": 15,
+                      "y": 105
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "28",
+              "name": "L-Ear-Protection2",
+              "children": null,
+              "position": {
+                "x": 9.68256,
+                "y": 7.54458,
+                "z": 0.77328
+              },
+              "orientation": {
+                "x": 0.00157,
+                "y": -0.03603,
+                "z": 0.04359,
+                "w": 0.9984
+              },
+              "shape": {
+                "type": "box",
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "stretch": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 1
+                },
+                "settings": {
+                  "size": {
+                    "x": 14,
+                    "y": 5,
+                    "z": 4
+                  }
+                },
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat",
+                "unwrapMode": "custom",
+                "textureLayout": {
+                  "back": {
+                    "offset": {
+                      "x": 46,
+                      "y": 113
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "bottom": {
+                    "offset": {
+                      "x": 14,
+                      "y": 120
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {
+                      "x": 46,
+                      "y": 113
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "left": {
+                    "offset": {
+                      "x": 61,
+                      "y": 105
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "right": {
+                    "offset": {
+                      "x": 64,
+                      "y": 90
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "top": {
+                    "offset": {
+                      "x": 60,
+                      "y": 113
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  }
+                }
+              }
+            }
+          ],
+          "position": {
+            "x": 13.06031,
+            "y": -6.66964,
+            "z": -1.54398
+          },
+          "orientation": {
+            "x": 0.12854,
+            "y": 0.02267,
+            "z": -0.17216,
+            "w": 0.97638
+          },
+          "shape": {
+            "type": "box",
+            "offset": {
+              "x": 5,
+              "y": 0,
+              "z": 0
+            },
+            "stretch": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "settings": {
+              "size": {
+                "x": 10,
+                "y": 16,
+                "z": 4
+              }
+            },
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat",
+            "unwrapMode": "custom",
+            "textureLayout": {
+              "back": {
+                "offset": {
+                  "x": 46,
+                  "y": 60
+                },
+                "mirror": {
+                  "x": false,
+                  "y": false
+                },
+                "angle": 0
+              },
+              "bottom": {
+                "offset": {
+                  "x": 24,
+                  "y": 120
+                },
+                "mirror": {
+                  "x": true,
+                  "y": false
+                },
+                "angle": 0
+              },
+              "front": {
+                "offset": {
+                  "x": 42,
+                  "y": 60
+                },
+                "mirror": {
+                  "x": true,
+                  "y": false
+                },
+                "angle": 0
+              },
+              "right": {
+                "offset": {
+                  "x": 42,
+                  "y": 60
+                },
+                "mirror": {
+                  "x": false,
+                  "y": false
+                },
+                "angle": 0
+              },
+              "top": {
+                "offset": {
+                  "x": 34,
+                  "y": 120
+                },
+                "mirror": {
+                  "x": true,
+                  "y": false
+                },
+                "angle": 0
+              }
+            }
+          }
+        },
+        {
+          "id": "29",
+          "name": "L-Head-Top",
+          "children": null,
+          "position": {
+            "x": 16,
+            "y": 15,
+            "z": 0
+          },
+          "orientation": {
+            "x": 0.12279,
+            "y": 0.69636,
+            "z": -0.12279,
+            "w": 0.69636
+          },
+          "shape": {
+            "type": "box",
+            "offset": {
+              "x": 0,
+              "y": 5.5,
+              "z": 0
+            },
+            "stretch": {
+              "x": 1.00029,
+              "y": 1.00029,
+              "z": 1.00029
+            },
+            "settings": {
+              "size": {
+                "x": 30,
+                "y": 11,
+                "z": 0
+              }
+            },
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat",
+            "unwrapMode": "custom",
+            "textureLayout": {
+              "back": {
+                "offset": {
+                  "x": 94,
+                  "y": 19
+                },
+                "mirror": {
+                  "x": true,
+                  "y": false
+                },
+                "angle": 0
+              },
+              "front": {
+                "offset": {
+                  "x": 64,
+                  "y": 19
+                },
+                "mirror": {
+                  "x": false,
+                  "y": false
+                },
+                "angle": 0
+              }
+            }
+          }
+        }
+      ],
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "orientation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "shape": {
+        "type": "box",
+        "offset": {
+          "x": 0,
+          "y": 16,
+          "z": 2
+        },
+        "stretch": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "settings": {
+          "size": {
+            "x": 32,
+            "y": 30,
+            "z": 30
+          }
+        },
+        "visible": true,
+        "doubleSided": false,
+        "shadingMode": "flat",
+        "unwrapMode": "custom",
+        "textureLayout": {
+          "back": {
+            "offset": {
+              "x": 32,
+              "y": 0
+            },
+            "mirror": {
+              "x": true,
+              "y": false
+            },
+            "angle": 0
+          },
+          "bottom": {
+            "offset": {
+              "x": 0,
+              "y": 60
+            },
+            "mirror": {
+              "x": false,
+              "y": false
+            },
+            "angle": 0
+          },
+          "front": {
+            "offset": {
+              "x": 0,
+              "y": 30
+            },
+            "mirror": {
+              "x": false,
+              "y": false
+            },
+            "angle": 0
+          },
+          "left": {
+            "offset": {
+              "x": 62,
+              "y": 0
+            },
+            "mirror": {
+              "x": true,
+              "y": false
+            },
+            "angle": 0
+          },
+          "right": {
+            "offset": {
+              "x": 32,
+              "y": 0
+            },
+            "mirror": {
+              "x": false,
+              "y": false
+            },
+            "angle": 0
+          },
+          "top": {
+            "offset": {
+              "x": 32,
+              "y": 30
+            },
+            "mirror": {
+              "x": false,
+              "y": false
+            },
+            "angle": 0
+          }
+        }
+      }
+    }
+  ],
+  "lod": "auto"
+}

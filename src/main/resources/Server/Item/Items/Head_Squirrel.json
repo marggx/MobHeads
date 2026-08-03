@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Squirrel/Squirrel.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Squirrel/Texture.png",
+        "Texture": "Blocks/Heads/Squirrel/Head_Squirrel.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Squirrel.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Squirrel.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Squirrel"
+    "Name": "Head_Squirrel"
   }
 }

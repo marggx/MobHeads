@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Mouflon/Mouflon.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Mouflon/Texture.png",
+        "Texture": "Blocks/Heads/Mouflon/Head_Mouflon.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Mouflon.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Mouflon.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Mouflon"
+    "Name": "Head_Mouflon"
   }
 }

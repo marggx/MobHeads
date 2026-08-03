@@ -1,0 +1,42 @@
+{
+  "BlockType": {
+    "BlockParticleSetId": "Stone",
+    "BlockSoundSetId": "Plushie",
+    "CustomModel": "Blocks/Heads/Mannequin/Mannequin.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Heads/Mannequin/Head_Mannequin_Light.png",
+        "Weight": 1
+      }
+    ],
+    "DrawType": "Model",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "Group": "Wood",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "PhysicalMaterialId": "Wool",
+    "VariantRotation": "NESW"
+  },
+  "Categories": [
+    "Heads.Heads"
+  ],
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Mannequin_Light.png",
+  "Interactions": {
+    "Primary": "Block_Primary",
+    "Secondary": "Block_Secondary"
+  },
+  "ItemSoundSetId": "ISS_Blocks_Wood",
+  "PlayerAnimationsId": "Item",
+  "Tags": {
+    "Type": [
+      "Deco"
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "Head_Mannequin_Light"
+  }
+}

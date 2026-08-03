@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Horse/Horse.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Horse/Texture.png",
+        "Texture": "Blocks/Heads/Horse/Head_Horse.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Horse.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Horse.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Horse"
+    "Name": "Head_Horse"
   }
 }

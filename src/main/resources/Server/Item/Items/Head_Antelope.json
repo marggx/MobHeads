@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Antelope/Antelope.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Antelope/Texture.png",
+        "Texture": "Blocks/Heads/Antelope/Head_Antelope.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Antelope.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Antelope.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Antelope"
+    "Name": "Head_Antelope"
   }
 }

@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Chick_Desert/Chick_Desert.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Chick_Desert/Texture.png",
+        "Texture": "Blocks/Heads/Chick_Desert/Head_Chick_Desert.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Chick_Desert.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Chick_Desert.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Chick_Desert"
+    "Name": "Head_Chick_Desert"
   }
 }

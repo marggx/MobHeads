@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Mosshorn/Mosshorn.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Mosshorn/Texture.png",
+        "Texture": "Blocks/Heads/Mosshorn/Head_Mosshorn.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Mosshorn.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Mosshorn.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Mosshorn"
+    "Name": "Head_Mosshorn"
   }
 }

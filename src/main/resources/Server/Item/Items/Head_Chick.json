@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Chick/Chick.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Chick/Texture.png",
+        "Texture": "Blocks/Heads/Chick/Head_Chick.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Chick.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Chick.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Chick"
+    "Name": "Head_Chick"
   }
 }

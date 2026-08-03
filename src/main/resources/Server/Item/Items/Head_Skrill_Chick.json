@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Skrill_Chick/Skrill_Chick.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Skrill_Chick/Texture.png",
+        "Texture": "Blocks/Heads/Skrill_Chick/Head_Skrill_Chick.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Skrill_Chick.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Skrill_Chick.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Skrill_Chick"
+    "Name": "Head_Skrill_Chick"
   }
 }

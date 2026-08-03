@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Whale_Humpback/Whale_Humpback.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Whale_Humpback/Texture.png",
+        "Texture": "Blocks/Heads/Whale_Humpback/Head_Whale_Humpback.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Whale_Humpback.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Whale_Humpback.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Whale_Humpback"
+    "Name": "Head_Whale_Humpback"
   }
 }

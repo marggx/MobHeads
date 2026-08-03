@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Shadow_Knight/Shadow_Knight.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Shadow_Knight/Texture.png",
+        "Texture": "Blocks/Heads/Shadow_Knight/Head_Shadow_Knight.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Shadow_Knight.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Shadow_Knight.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Shadow_Knight"
+    "Name": "Head_Shadow_Knight"
   }
 }

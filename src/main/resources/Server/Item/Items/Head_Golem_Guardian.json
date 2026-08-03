@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Golem_Guardian/Golem_Guardian.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Golem_Guardian/Texture.png",
+        "Texture": "Blocks/Heads/Golem_Guardian/Head_Golem_Guardian.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Golem_Guardian.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Golem_Guardian.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Golem_Guardian"
+    "Name": "Head_Golem_Guardian"
   }
 }

@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Boar_Piglet/Boar_Piglet.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Boar_Piglet/Texture.png",
+        "Texture": "Blocks/Heads/Boar_Piglet/Head_Boar_Piglet.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Boar_Piglet.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Boar_Piglet.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Boar_Piglet"
+    "Name": "Head_Boar_Piglet"
   }
 }

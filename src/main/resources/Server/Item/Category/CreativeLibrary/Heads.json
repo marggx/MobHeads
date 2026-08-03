@@ -1,0 +1,11 @@
+{
+  "Icon": "Icons/ItemCategories/Heads.png",
+  "Order": 4,
+  "Children": [
+    {
+      "Id": "Heads",
+      "Name": "mobheads.ui.itemcategory.heads",
+      "Icon": "Icons/ItemCategories/Misc.png"
+    }
+  ]
+}

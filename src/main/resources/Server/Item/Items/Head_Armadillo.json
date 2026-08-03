@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Armadillo/Armadillo.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Armadillo/Texture.png",
+        "Texture": "Blocks/Heads/Armadillo/Head_Armadillo.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Armadillo.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Armadillo.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Armadillo"
+    "Name": "Head_Armadillo"
   }
 }

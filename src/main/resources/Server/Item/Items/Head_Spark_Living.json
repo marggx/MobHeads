@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Spark_Living/Spark_Living.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Spark_Living/Texture.png",
+        "Texture": "Blocks/Heads/Spark_Living/Head_Spark_Living.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Spark_Living.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Spark_Living.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Spark_Living"
+    "Name": "Head_Spark_Living"
   }
 }

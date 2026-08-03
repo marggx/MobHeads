@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Dragon_Fire/Dragon_Fire.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Dragon_Fire/Texture.png",
+        "Texture": "Blocks/Heads/Dragon_Fire/Head_Dragon_Fire.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Dragon_Fire.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Dragon_Fire.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Dragon_Fire"
+    "Name": "Head_Dragon_Fire"
   }
 }

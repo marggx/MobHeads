@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Slothian_Kid/Slothian_Kid.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Slothian_Kid/Texture.png",
+        "Texture": "Blocks/Heads/Slothian_Kid/Head_Slothian_Kid.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Slothian_Kid.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Slothian_Kid.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Slothian_Kid"
+    "Name": "Head_Slothian_Kid"
   }
 }

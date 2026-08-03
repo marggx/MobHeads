@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Rat/Rat.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Rat/Texture.png",
+        "Texture": "Blocks/Heads/Rat/Head_Rat.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Rat.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Rat.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Rat"
+    "Name": "Head_Rat"
   }
 }

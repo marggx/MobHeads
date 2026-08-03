@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Goat/Goat.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Goat/Texture.png",
+        "Texture": "Blocks/Heads/Goat/Head_Goat.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Goat.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Goat.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Goat"
+    "Name": "Head_Goat"
   }
 }

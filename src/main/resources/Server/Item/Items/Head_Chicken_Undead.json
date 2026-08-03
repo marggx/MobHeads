@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Chicken_Undead/Chicken_Undead.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Chicken_Undead/Texture.png",
+        "Texture": "Blocks/Heads/Chicken_Undead/Head_Chicken_Undead.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Chicken_Undead.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Chicken_Undead.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Chicken_Undead"
+    "Name": "Head_Chicken_Undead"
   }
 }

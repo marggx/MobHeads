@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Scarak_Defender/Scarak_Defender.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Scarak_Defender/Texture.png",
+        "Texture": "Blocks/Heads/Scarak_Defender/Head_Scarak_Defender.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Scarak_Defender.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Scarak_Defender.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Scarak_Defender"
+    "Name": "Head_Scarak_Defender"
   }
 }

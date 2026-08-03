@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Pike/Pike.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Pike/Texture.png",
+        "Texture": "Blocks/Heads/Pike/Head_Pike.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Pike.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Pike.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Pike"
+    "Name": "Head_Pike"
   }
 }

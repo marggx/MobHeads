@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Grooble/Grooble.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Grooble/Texture.png",
+        "Texture": "Blocks/Heads/Grooble/Head_Grooble.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Grooble.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Grooble.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Grooble"
+    "Name": "Head_Grooble"
   }
 }

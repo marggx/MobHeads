@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Duck/Duck.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Duck/Texture.png",
+        "Texture": "Blocks/Heads/Duck/Head_Duck.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Duck.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Duck.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Duck"
+    "Name": "Head_Duck"
   }
 }

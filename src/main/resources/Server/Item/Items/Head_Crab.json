@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Crab/Crab.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Crab/Texture.png",
+        "Texture": "Blocks/Heads/Crab/Head_Crab.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Crab.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Crab.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Crab"
+    "Name": "Head_Crab"
   }
 }

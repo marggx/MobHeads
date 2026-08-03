@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Deer/Deer.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Deer/Texture.png",
+        "Texture": "Blocks/Heads/Deer/Head_Deer.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Deer.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Deer.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Deer"
+    "Name": "Head_Deer"
   }
 }

@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Hawk/Hawk.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Hawk/Texture.png",
+        "Texture": "Blocks/Heads/Hawk/Head_Hawk.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Hawk.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Hawk.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Hawk"
+    "Name": "Head_Hawk"
   }
 }

@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Sheep/Sheep.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Sheep/Texture.png",
+        "Texture": "Blocks/Heads/Sheep/Head_Sheep.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Sheep.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Sheep.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Sheep"
+    "Name": "Head_Sheep"
   }
 }

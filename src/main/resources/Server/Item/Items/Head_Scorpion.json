@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Scorpion/Scorpion.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Scorpion/Texture.png",
+        "Texture": "Blocks/Heads/Scorpion/Head_Scorpion.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Scorpion.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Scorpion.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Scorpion"
+    "Name": "Head_Scorpion"
   }
 }

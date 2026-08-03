@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Meerkat/Meerkat.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Meerkat/Texture.png",
+        "Texture": "Blocks/Heads/Meerkat/Head_Meerkat.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Meerkat.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Meerkat.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Meerkat"
+    "Name": "Head_Meerkat"
   }
 }

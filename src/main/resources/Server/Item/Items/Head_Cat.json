@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Cat/Cat.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Cat/Texture.png",
+        "Texture": "Blocks/Heads/Cat/Head_Cat.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Cat.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Cat.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Cat"
+    "Name": "Head_Cat"
   }
 }

@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Spirit_Ember/Spirit_Ember.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Spirit_Ember/Texture.png",
+        "Texture": "Blocks/Heads/Spirit_Ember/Head_Spirit_Ember.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Spirit_Ember.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Spirit_Ember.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Spirit_Ember"
+    "Name": "Head_Spirit_Ember"
   }
 }

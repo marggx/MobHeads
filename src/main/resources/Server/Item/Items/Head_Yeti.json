@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Yeti/Yeti.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Yeti/Texture.png",
+        "Texture": "Blocks/Heads/Yeti/Head_Yeti.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Yeti.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Yeti.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Yeti"
+    "Name": "Head_Yeti"
   }
 }

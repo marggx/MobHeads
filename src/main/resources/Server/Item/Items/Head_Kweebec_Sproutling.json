@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Kweebec_Sproutling/Kweebec_Sproutling.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Kweebec_Sproutling/Texture.png",
+        "Texture": "Blocks/Heads/Kweebec_Sproutling/Head_Kweebec_Sproutling.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Kweebec_Sproutling.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Kweebec_Sproutling.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Kweebec_Sproutling"
+    "Name": "Head_Kweebec_Sproutling"
   }
 }

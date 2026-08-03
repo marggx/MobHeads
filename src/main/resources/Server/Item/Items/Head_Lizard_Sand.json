@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Lizard_Sand/Lizard_Sand.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Lizard_Sand/Texture.png",
+        "Texture": "Blocks/Heads/Lizard_Sand/Head_Lizard_Sand.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Lizard_Sand.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Lizard_Sand.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Lizard_Sand"
+    "Name": "Head_Lizard_Sand"
   }
 }

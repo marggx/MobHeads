@@ -3,7 +3,7 @@ A Plugin that adds all Mob Heads as Blocks.
 
 ---
 # Features
-- 113 mob heads as placeable blocks
+- 228 mob heads as placeable blocks
 - Heads drop from NPCs on death with configurable chance
 - Admin commands to configure drop behavior
 --- 

@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Slothian_Elder/Slothian_Elder.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Slothian_Elder/Texture.png",
+        "Texture": "Blocks/Heads/Slothian_Elder/Head_Slothian_Elder.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Slothian_Elder.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Slothian_Elder.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Slothian_Elder"
+    "Name": "Head_Slothian_Elder"
   }
 }

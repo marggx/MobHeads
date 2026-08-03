@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Spectre_Void/Spectre_Void.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Spectre_Void/Texture.png",
+        "Texture": "Blocks/Heads/Spectre_Void/Head_Spectre_Void.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Spectre_Void.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Spectre_Void.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Spectre_Void"
+    "Name": "Head_Spectre_Void"
   }
 }

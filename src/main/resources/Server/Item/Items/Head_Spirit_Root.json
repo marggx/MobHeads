@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Spirit_Root/Spirit_Root.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Spirit_Root/Texture.png",
+        "Texture": "Blocks/Heads/Spirit_Root/Head_Spirit_Root.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Spirit_Root.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Spirit_Root.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Spirit_Root"
+    "Name": "Head_Spirit_Root"
   }
 }

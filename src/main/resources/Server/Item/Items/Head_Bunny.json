@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Bunny/Bunny.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Bunny/Texture.png",
+        "Texture": "Blocks/Heads/Bunny/Head_Bunny.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Bunny.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Bunny.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Bunny"
+    "Name": "Head_Bunny"
   }
 }

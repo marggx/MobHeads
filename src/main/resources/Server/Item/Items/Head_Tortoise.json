@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Tortoise/Tortoise.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Tortoise/Texture.png",
+        "Texture": "Blocks/Heads/Tortoise/Head_Tortoise.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Tortoise.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Tortoise.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Tortoise"
+    "Name": "Head_Tortoise"
   }
 }

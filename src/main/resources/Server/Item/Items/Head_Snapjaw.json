@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Snapjaw/Snapjaw.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Snapjaw/Texture.png",
+        "Texture": "Blocks/Heads/Snapjaw/Head_Snapjaw.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Snapjaw.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Snapjaw.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Snapjaw"
+    "Name": "Head_Snapjaw"
   }
 }

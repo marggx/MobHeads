@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Fox/Fox.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Fox/Texture.png",
+        "Texture": "Blocks/Heads/Fox/Head_Fox.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Fox.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Fox.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Fox"
+    "Name": "Head_Fox"
   }
 }

@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Turkey/Turkey.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Turkey/Texture.png",
+        "Texture": "Blocks/Heads/Turkey/Head_Turkey.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Turkey.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Turkey.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Turkey"
+    "Name": "Head_Turkey"
   }
 }

@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Fen_Stalker/Fen_Stalker.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Fen_Stalker/Texture.png",
+        "Texture": "Blocks/Heads/Fen_Stalker/Head_Fen_Stalker.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Fen_Stalker.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Fen_Stalker.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Fen_Stalker"
+    "Name": "Head_Fen_Stalker"
   }
 }

@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Outlander_Brute/Outlander_Brute.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Outlander_Brute/Texture.png",
+        "Texture": "Blocks/Heads/Outlander_Brute/Head_Outlander_Brute.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Outlander_Brute.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Outlander_Brute.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Outlander_Brute"
+    "Name": "Head_Outlander_Brute"
   }
 }

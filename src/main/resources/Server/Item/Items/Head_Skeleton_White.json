@@ -1,0 +1,42 @@
+{
+  "BlockType": {
+    "BlockParticleSetId": "Stone",
+    "BlockSoundSetId": "Plushie",
+    "CustomModel": "Blocks/Heads/Skeleton/Skeleton.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Heads/Skeleton/Head_Skeleton_White.png",
+        "Weight": 1
+      }
+    ],
+    "DrawType": "Model",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "Group": "Wood",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "PhysicalMaterialId": "Wool",
+    "VariantRotation": "NESW"
+  },
+  "Categories": [
+    "Heads.Heads"
+  ],
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Skeleton_White.png",
+  "Interactions": {
+    "Primary": "Block_Primary",
+    "Secondary": "Block_Secondary"
+  },
+  "ItemSoundSetId": "ISS_Blocks_Wood",
+  "PlayerAnimationsId": "Item",
+  "Tags": {
+    "Type": [
+      "Deco"
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "Head_Skeleton_White"
+  }
+}

@@ -5,7 +5,7 @@
     "CustomModel": "Blocks/Heads/Penguin/Penguin.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Heads/Penguin/Texture.png",
+        "Texture": "Blocks/Heads/Penguin/Head_Penguin.png",
         "Weight": 1
       }
     ],
@@ -22,9 +22,9 @@
     "VariantRotation": "NESW"
   },
   "Categories": [
-    "Blocks.Deco"
+    "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Penguin.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Penguin.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Penguin"
+    "Name": "Head_Penguin"
   }
 }
