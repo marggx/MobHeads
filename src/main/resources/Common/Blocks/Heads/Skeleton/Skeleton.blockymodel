@@ -45,7 +45,7 @@
             "textureLayout": {
               "back": {
                 "offset": {
-                  "x": 36,
+                  "x": 18,
                   "y": 74
                 },
                 "mirror": {
@@ -67,7 +67,7 @@
               },
               "front": {
                 "offset": {
-                  "x": 18,
+                  "x": 36,
                   "y": 74
                 },
                 "mirror": {
@@ -153,7 +153,7 @@
             "textureLayout": {
               "back": {
                 "offset": {
-                  "x": 36,
+                  "x": 18,
                   "y": 74
                 },
                 "mirror": {

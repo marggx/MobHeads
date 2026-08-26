@@ -12,7 +12,7 @@
     ],
     "Website": "marggx.dev",
     "Main": "dev.marggx.mobheads.MobHeadsPlugin",
-    "ServerVersion": "^0.5.7",
+    "ServerVersion": "^0.6.0",
     "Dependencies": {
         "Hytale:AssetModule": "*"
     },

@@ -395,7 +395,7 @@
                 "textureLayout": {
                   "front": {
                     "offset": {
-                      "x": 8,
+                      "x": 10,
                       "y": 77
                     },
                     "mirror": {
@@ -428,8 +428,8 @@
                   },
                   "top": {
                     "offset": {
-                      "x": 48,
-                      "y": 77
+                      "x": 0,
+                      "y": 82
                     },
                     "mirror": {
                       "x": false,
@@ -481,7 +481,7 @@
                 "textureLayout": {
                   "bottom": {
                     "offset": {
-                      "x": 24,
+                      "x": 12,
                       "y": 77
                     },
                     "mirror": {
@@ -492,7 +492,7 @@
                   },
                   "front": {
                     "offset": {
-                      "x": 16,
+                      "x": 18,
                       "y": 77
                     },
                     "mirror": {
@@ -503,7 +503,7 @@
                   },
                   "left": {
                     "offset": {
-                      "x": 28,
+                      "x": 30,
                       "y": 77
                     },
                     "mirror": {
@@ -514,7 +514,7 @@
                   },
                   "right": {
                     "offset": {
-                      "x": 33,
+                      "x": 35,
                       "y": 77
                     },
                     "mirror": {
@@ -525,7 +525,7 @@
                   },
                   "top": {
                     "offset": {
-                      "x": 0,
+                      "x": 12,
                       "y": 72
                     },
                     "mirror": {
@@ -575,17 +575,6 @@
             "textureLayout": {
               "front": {
                 "offset": {
-                  "x": 24,
-                  "y": 72
-                },
-                "mirror": {
-                  "x": false,
-                  "y": false
-                },
-                "angle": 0
-              },
-              "left": {
-                "offset": {
                   "x": 0,
                   "y": 77
                 },
@@ -595,10 +584,21 @@
                 },
                 "angle": 0
               },
+              "left": {
+                "offset": {
+                  "x": 24,
+                  "y": 72
+                },
+                "mirror": {
+                  "x": false,
+                  "y": false
+                },
+                "angle": 0
+              },
               "right": {
                 "offset": {
-                  "x": 8,
-                  "y": 77
+                  "x": 32,
+                  "y": 72
                 },
                 "mirror": {
                   "x": true,
@@ -661,7 +661,7 @@
             "textureLayout": {
               "bottom": {
                 "offset": {
-                  "x": 44,
+                  "x": 32,
                   "y": 72
                 },
                 "mirror": {
@@ -672,7 +672,7 @@
               },
               "front": {
                 "offset": {
-                  "x": 38,
+                  "x": 35,
                   "y": 77
                 },
                 "mirror": {
@@ -683,7 +683,7 @@
               },
               "left": {
                 "offset": {
-                  "x": 33,
+                  "x": 45,
                   "y": 77
                 },
                 "mirror": {
@@ -694,7 +694,7 @@
               },
               "right": {
                 "offset": {
-                  "x": 38,
+                  "x": 50,
                   "y": 77
                 },
                 "mirror": {
@@ -705,7 +705,7 @@
               },
               "top": {
                 "offset": {
-                  "x": 34,
+                  "x": 42,
                   "y": 72
                 },
                 "mirror": {

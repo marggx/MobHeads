@@ -316,7 +316,7 @@
             "textureLayout": {
               "back": {
                 "offset": {
-                  "x": 27,
+                  "x": 17,
                   "y": 116
                 },
                 "mirror": {
@@ -338,8 +338,8 @@
               },
               "front": {
                 "offset": {
-                  "x": 22,
-                  "y": 116
+                  "x": 104,
+                  "y": 0
                 },
                 "mirror": {
                   "x": false,
@@ -349,7 +349,7 @@
               },
               "left": {
                 "offset": {
-                  "x": 17,
+                  "x": 27,
                   "y": 116
                 },
                 "mirror": {
@@ -360,8 +360,8 @@
               },
               "right": {
                 "offset": {
-                  "x": 104,
-                  "y": 0
+                  "x": 22,
+                  "y": 116
                 },
                 "mirror": {
                   "x": false,
@@ -424,7 +424,7 @@
             "textureLayout": {
               "back": {
                 "offset": {
-                  "x": 27,
+                  "x": 17,
                   "y": 116
                 },
                 "mirror": {
@@ -446,8 +446,8 @@
               },
               "front": {
                 "offset": {
-                  "x": 22,
-                  "y": 116
+                  "x": 104,
+                  "y": 0
                 },
                 "mirror": {
                   "x": false,
@@ -457,7 +457,7 @@
               },
               "left": {
                 "offset": {
-                  "x": 17,
+                  "x": 27,
                   "y": 116
                 },
                 "mirror": {
@@ -468,8 +468,8 @@
               },
               "right": {
                 "offset": {
-                  "x": 104,
-                  "y": 0
+                  "x": 22,
+                  "y": 116
                 },
                 "mirror": {
                   "x": false,
