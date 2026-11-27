@@ -24,7 +24,7 @@
   "Categories": [
     "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Head_Klops_default.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Klops_Default.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Head_Klops_default"
+    "Name": "Head_Klops_Default"
   }
 }

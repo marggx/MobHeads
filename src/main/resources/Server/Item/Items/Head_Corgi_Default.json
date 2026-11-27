@@ -24,7 +24,7 @@
   "Categories": [
     "Heads.Heads"
   ],
-  "Icon": "Icons/ItemsGenerated/Heads/Head_Corgi_default.png",
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Corgi_Default.png",
   "Interactions": {
     "Primary": "Block_Primary",
     "Secondary": "Block_Secondary"
@@ -37,6 +37,6 @@
     ]
   },
   "TranslationProperties": {
-    "Name": "Head_Corgi_default"
+    "Name": "Head_Corgi_Default"
   }
 }
