@@ -56,7 +56,7 @@ jobs:
         run: chmod +x gradlew
 
       - name: Build with Gradle
-        run: ./gradlew build -Phytale_home="${{ runner.temp }}/hytale-home"
+        run: ./gradlew updatePluginManifest build -Phytale_home="${{ runner.temp }}/hytale-home"
 
       - name: Commit and push updated files
         run: |

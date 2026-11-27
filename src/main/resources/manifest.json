@@ -1,7 +1,7 @@
 {
     "Group": "Marggx",
     "Name": "MobHeads",
-    "Version": "1.1.0",
+    "Version": "1.2.0",
     "Description": "A Plugin that adds all Mob Heads as Blocks",
     "Authors": [
         {
@@ -12,7 +12,7 @@
     ],
     "Website": "marggx.dev",
     "Main": "dev.marggx.mobheads.MobHeadsPlugin",
-    "ServerVersion": "^0.6.0",
+    "ServerVersion": "^0.7.7",
     "Dependencies": {
         "Hytale:AssetModule": "*"
     },
