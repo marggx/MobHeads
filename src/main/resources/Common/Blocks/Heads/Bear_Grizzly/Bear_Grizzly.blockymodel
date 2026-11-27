@@ -1,13 +1,383 @@
 {
   "nodes": [
     {
-      "id": "1",
+      "id": "45",
       "name": "Head",
       "children": [
         {
-          "id": "125",
+          "id": "46",
+          "name": "bone",
+          "children": [
+            {
+              "id": "47",
+              "name": "HeadShape--C1",
+              "children": null,
+              "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "orientation": {
+                "x": 0,
+                "y": 0,
+                "z": 0.0654,
+                "w": 0.99786
+              },
+              "shape": {
+                "type": "box",
+                "offset": {
+                  "x": 7,
+                  "y": -1.5,
+                  "z": -18.5
+                },
+                "stretch": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 0.999
+                },
+                "settings": {
+                  "size": {
+                    "x": 14,
+                    "y": 3,
+                    "z": 37
+                  }
+                },
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat",
+                "unwrapMode": "custom",
+                "textureLayout": {
+                  "back": {
+                    "offset": {
+                      "x": 14,
+                      "y": 182
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {
+                      "x": 0,
+                      "y": 182
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "top": {
+                    "offset": {
+                      "x": 0,
+                      "y": 76
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "48",
+              "name": "HeadShape--C2",
+              "children": null,
+              "position": {
+                "x": 13.88023,
+                "y": 1.82737,
+                "z": 0
+              },
+              "orientation": {
+                "x": 0,
+                "y": 0,
+                "z": -0.15212,
+                "w": 0.98836
+              },
+              "shape": {
+                "type": "box",
+                "offset": {
+                  "x": 5.5,
+                  "y": -1.5,
+                  "z": -18.5
+                },
+                "stretch": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 0.995
+                },
+                "settings": {
+                  "size": {
+                    "x": 11,
+                    "y": 3,
+                    "z": 37
+                  }
+                },
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat",
+                "unwrapMode": "custom",
+                "textureLayout": {
+                  "back": {
+                    "offset": {
+                      "x": 90,
+                      "y": 176
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {
+                      "x": 79,
+                      "y": 176
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "top": {
+                    "offset": {
+                      "x": 36,
+                      "y": 76
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  }
+                }
+              }
+            }
+          ],
+          "position": {
+            "x": -23,
+            "y": 19,
+            "z": 18.5
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0.04362,
+            "w": 0.99905
+          },
+          "shape": {
+            "type": "none",
+            "offset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "stretch": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "settings": {},
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat",
+            "unwrapMode": "custom"
+          }
+        },
+        {
+          "id": "49",
+          "name": "bone",
+          "children": [
+            {
+              "id": "50",
+              "name": "HeadShape--C1",
+              "children": null,
+              "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "orientation": {
+                "x": 0,
+                "y": 0,
+                "z": -0.0654,
+                "w": 0.99786
+              },
+              "shape": {
+                "type": "box",
+                "offset": {
+                  "x": -7,
+                  "y": -1.5,
+                  "z": -18.5
+                },
+                "stretch": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 0.999
+                },
+                "settings": {
+                  "size": {
+                    "x": 14,
+                    "y": 3,
+                    "z": 37
+                  }
+                },
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat",
+                "unwrapMode": "custom",
+                "textureLayout": {
+                  "back": {
+                    "offset": {
+                      "x": 68,
+                      "y": 176
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {
+                      "x": 54,
+                      "y": 176
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "top": {
+                    "offset": {
+                      "x": 83,
+                      "y": 0
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "51",
+              "name": "HeadShape--C2",
+              "children": null,
+              "position": {
+                "x": -13.88023,
+                "y": 1.82737,
+                "z": 0
+              },
+              "orientation": {
+                "x": 0,
+                "y": 0,
+                "z": 0.15212,
+                "w": 0.98836
+              },
+              "shape": {
+                "type": "box",
+                "offset": {
+                  "x": -5.5,
+                  "y": -1.5,
+                  "z": -18.5
+                },
+                "stretch": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 0.993
+                },
+                "settings": {
+                  "size": {
+                    "x": 11,
+                    "y": 3,
+                    "z": 37
+                  }
+                },
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat",
+                "unwrapMode": "custom",
+                "textureLayout": {
+                  "back": {
+                    "offset": {
+                      "x": 29,
+                      "y": 176
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {
+                      "x": 18,
+                      "y": 176
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "top": {
+                    "offset": {
+                      "x": 25,
+                      "y": 76
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  }
+                }
+              }
+            }
+          ],
+          "position": {
+            "x": 23,
+            "y": 19,
+            "z": 18.5
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": -0.04362,
+            "w": 0.99905
+          },
+          "shape": {
+            "type": "none",
+            "offset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "stretch": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "settings": {},
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat",
+            "unwrapMode": "custom"
+          }
+        },
+        {
+          "id": "52",
           "name": "L-Eyelid",
-          "children": [],
+          "children": null,
           "position": {
             "x": 10,
             "y": 7,
@@ -46,8 +416,8 @@
             "textureLayout": {
               "front": {
                 "offset": {
-                  "x": 38,
-                  "y": 148
+                  "x": 90,
+                  "y": 147
                 },
                 "mirror": {
                   "x": true,
@@ -59,9 +429,9 @@
           }
         },
         {
-          "id": "126",
+          "id": "53",
           "name": "R-Eyelid",
-          "children": [],
+          "children": null,
           "position": {
             "x": -10,
             "y": 7,
@@ -100,8 +470,8 @@
             "textureLayout": {
               "front": {
                 "offset": {
-                  "x": 38,
-                  "y": 148
+                  "x": 90,
+                  "y": 147
                 },
                 "mirror": {
                   "x": true,
@@ -113,135 +483,454 @@
           }
         },
         {
-          "id": "128",
-          "name": "R-Eyebrow",
-          "children": [],
-          "position": {
-            "x": -8.5,
-            "y": 5,
-            "z": 19
-          },
-          "orientation": {
-            "x": 0.052137,
-            "y": 0.004561,
-            "z": -0.087036,
-            "w": 0.994829
-          },
-          "shape": {
-            "type": "quad",
-            "offset": {
-              "x": -3.999986,
-              "y": 3.000041,
-              "z": 0.000348
-            },
-            "stretch": {
-              "x": -1,
-              "y": 1,
-              "z": 1
-            },
-            "settings": {
-              "size": {
-                "x": 16,
-                "y": 10,
-                "z": 0
-              },
-              "normal": "+Z"
-            },
-            "visible": true,
-            "doubleSided": false,
-            "shadingMode": "flat",
-            "unwrapMode": "custom",
-            "textureLayout": {
-              "front": {
-                "offset": {
-                  "x": 87,
-                  "y": 134
-                },
-                "mirror": {
-                  "x": true,
-                  "y": false
-                },
-                "angle": 0
-              }
-            }
-          }
-        },
-        {
-          "id": "168",
+          "id": "54",
           "name": "L-Eyebrow",
-          "children": [],
+          "children": [
+            {
+              "id": "55",
+              "name": "cube--C1",
+              "children": null,
+              "position": {
+                "x": -3.99999,
+                "y": -3.00004,
+                "z": -0.00035
+              },
+              "orientation": {
+                "x": -0.12572,
+                "y": 0.08702,
+                "z": -0.00494,
+                "w": 0.98823
+              },
+              "shape": {
+                "type": "box",
+                "offset": {
+                  "x": 2.39431,
+                  "y": 5.25222,
+                  "z": 1.55997
+                },
+                "stretch": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 1
+                },
+                "settings": {
+                  "size": {
+                    "x": 19,
+                    "y": 11,
+                    "z": 6
+                  }
+                },
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat",
+                "unwrapMode": "custom",
+                "textureLayout": {
+                  "bottom": {
+                    "offset": {
+                      "x": 34,
+                      "y": 169
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {
+                      "x": 57,
+                      "y": 147
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "left": {
+                    "offset": {
+                      "x": 92,
+                      "y": 113
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "right": {
+                    "offset": {
+                      "x": 92,
+                      "y": 113
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "top": {
+                    "offset": {
+                      "x": 53,
+                      "y": 169
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "56",
+              "name": "cube--C2",
+              "children": null,
+              "position": {
+                "x": 4.51864,
+                "y": 1.51251,
+                "z": 2.06203
+              },
+              "orientation": {
+                "x": -0.12572,
+                "y": 0.08702,
+                "z": -0.00494,
+                "w": 0.98823
+              },
+              "shape": {
+                "type": "quad",
+                "offset": {
+                  "x": -4.5,
+                  "y": 4,
+                  "z": -0.1
+                },
+                "stretch": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 1
+                },
+                "settings": {
+                  "size": {
+                    "x": 21,
+                    "y": 12,
+                    "z": 0
+                  },
+                  "normal": "+Z"
+                },
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat",
+                "unwrapMode": "custom",
+                "textureLayout": {
+                  "front": {
+                    "offset": {
+                      "x": 36,
+                      "y": 147
+                    },
+                    "mirror": {
+                      "x": false,
+                      "y": false
+                    },
+                    "angle": 0
+                  }
+                }
+              }
+            }
+          ],
           "position": {
             "x": 8.5,
             "y": 5,
             "z": 19
           },
           "orientation": {
-            "x": 0.043453,
-            "y": -0.003802,
-            "z": 0.087073,
-            "w": 0.995247
+            "x": 0.04345,
+            "y": -0.0038,
+            "z": 0.08708,
+            "w": 0.99525
           },
           "shape": {
-            "type": "quad",
+            "type": "none",
             "offset": {
-              "x": 3.999986,
-              "y": 3.000041,
-              "z": 0.000348
+              "x": 3.99999,
+              "y": 3.00004,
+              "z": 0.00035
             },
             "stretch": {
               "x": 1,
               "y": 1,
               "z": 1
             },
-            "settings": {
-              "size": {
-                "x": 16,
-                "y": 10,
-                "z": 0
-              },
-              "normal": "+Z"
-            },
+            "settings": {},
             "visible": true,
             "doubleSided": false,
             "shadingMode": "flat",
-            "unwrapMode": "custom",
-            "textureLayout": {
-              "front": {
-                "offset": {
-                  "x": 87,
-                  "y": 134
-                },
-                "mirror": {
-                  "x": true,
-                  "y": false
-                },
-                "angle": 0
-              }
-            }
+            "unwrapMode": "custom"
           }
         },
         {
-          "id": "137",
+          "id": "57",
+          "name": "R-Eyebrow",
+          "children": [
+            {
+              "id": "58",
+              "name": "cube--C1",
+              "children": null,
+              "position": {
+                "x": -3.99999,
+                "y": -3.00004,
+                "z": -0.00035
+              },
+              "orientation": {
+                "x": -0.12572,
+                "y": -0.08702,
+                "z": 0.00494,
+                "w": 0.98823
+              },
+              "shape": {
+                "type": "box",
+                "offset": {
+                  "x": -2.39431,
+                  "y": 5.25222,
+                  "z": 1.55997
+                },
+                "stretch": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 1
+                },
+                "settings": {
+                  "size": {
+                    "x": 19,
+                    "y": 11,
+                    "z": 6
+                  }
+                },
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat",
+                "unwrapMode": "custom",
+                "textureLayout": {
+                  "bottom": {
+                    "offset": {
+                      "x": 53,
+                      "y": 169
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {
+                      "x": 76,
+                      "y": 147
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "left": {
+                    "offset": {
+                      "x": 98,
+                      "y": 113
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "right": {
+                    "offset": {
+                      "x": 98,
+                      "y": 113
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  },
+                  "top": {
+                    "offset": {
+                      "x": 72,
+                      "y": 169
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "59",
+              "name": "cube--C2",
+              "children": null,
+              "position": {
+                "x": -12.51862,
+                "y": 1.51251,
+                "z": 2.06203
+              },
+              "orientation": {
+                "x": -0.12572,
+                "y": -0.08702,
+                "z": 0.00494,
+                "w": 0.98823
+              },
+              "shape": {
+                "type": "quad",
+                "offset": {
+                  "x": 4.5,
+                  "y": 4,
+                  "z": -0.1
+                },
+                "stretch": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 1
+                },
+                "settings": {
+                  "size": {
+                    "x": 21,
+                    "y": 12,
+                    "z": 0
+                  },
+                  "normal": "+Z"
+                },
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat",
+                "unwrapMode": "custom",
+                "textureLayout": {
+                  "front": {
+                    "offset": {
+                      "x": 57,
+                      "y": 147
+                    },
+                    "mirror": {
+                      "x": true,
+                      "y": false
+                    },
+                    "angle": 0
+                  }
+                }
+              }
+            }
+          ],
+          "position": {
+            "x": -8.5,
+            "y": 5,
+            "z": 19
+          },
+          "orientation": {
+            "x": 0.04345,
+            "y": 0.0038,
+            "z": -0.08708,
+            "w": 0.99525
+          },
+          "shape": {
+            "type": "none",
+            "offset": {
+              "x": 3.99999,
+              "y": 3.00004,
+              "z": 0.00035
+            },
+            "stretch": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "settings": {},
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat",
+            "unwrapMode": "custom"
+          }
+        },
+        {
+          "id": "60",
           "name": "Nose",
           "children": [
             {
-              "id": "151",
+              "id": "61",
               "name": "Jaw",
               "children": [
                 {
-                  "id": "170",
+                  "id": "62",
                   "name": "Bot-Teeth",
-                  "children": [],
+                  "children": [
+                    {
+                      "id": "63",
+                      "name": "cube--C1",
+                      "children": null,
+                      "position": {
+                        "x": -10.475,
+                        "y": -1.76118,
+                        "z": 4.80521
+                      },
+                      "orientation": {
+                        "x": 0.20791,
+                        "y": 0,
+                        "z": 0,
+                        "w": 0.97815
+                      },
+                      "shape": {
+                        "type": "quad",
+                        "offset": {
+                          "x": 10.625,
+                          "y": 3.4,
+                          "z": -0.001
+                        },
+                        "stretch": {
+                          "x": 0.85,
+                          "y": 0.85,
+                          "z": 0.85
+                        },
+                        "settings": {
+                          "size": {
+                            "x": 25,
+                            "y": 8,
+                            "z": 0
+                          },
+                          "normal": "+Z"
+                        },
+                        "visible": true,
+                        "doubleSided": true,
+                        "shadingMode": "flat",
+                        "unwrapMode": "custom",
+                        "textureLayout": {
+                          "front": {
+                            "offset": {
+                              "x": 52,
+                              "y": 160
+                            },
+                            "mirror": {
+                              "x": false,
+                              "y": false
+                            },
+                            "angle": 0
+                          }
+                        }
+                      }
+                    }
+                  ],
                   "position": {
                     "x": 0,
                     "y": 3.5,
                     "z": 1
                   },
                   "orientation": {
-                    "x": -0.173648,
+                    "x": -0.17365,
                     "y": 0,
                     "z": 0,
-                    "w": 0.984808
+                    "w": 0.98481
                   },
                   "shape": {
                     "type": "box",
@@ -269,34 +958,34 @@
                     "textureLayout": {
                       "front": {
                         "offset": {
-                          "x": 74,
-                          "y": 148
+                          "x": 16,
+                          "y": 176
                         },
                         "mirror": {
                           "x": false,
-                          "y": false
+                          "y": true
                         },
                         "angle": 0
                       },
                       "left": {
                         "offset": {
                           "x": 16,
-                          "y": 159
+                          "y": 176
                         },
                         "mirror": {
                           "x": true,
-                          "y": false
+                          "y": true
                         },
                         "angle": 0
                       },
                       "right": {
                         "offset": {
                           "x": 0,
-                          "y": 159
+                          "y": 176
                         },
                         "mirror": {
                           "x": false,
-                          "y": false
+                          "y": true
                         },
                         "angle": 0
                       }
@@ -306,24 +995,24 @@
               ],
               "position": {
                 "x": 0,
-                "y": -6.5,
-                "z": -8
+                "y": -8.34524,
+                "z": -4.68738
               },
               "orientation": {
                 "x": 0.21644,
                 "y": 0,
                 "z": 0,
-                "w": 0.976296
+                "w": 0.9763
               },
               "shape": {
                 "type": "box",
                 "offset": {
                   "x": 0,
-                  "y": -4.000024,
+                  "y": -4.00002,
                   "z": 7.9997
                 },
                 "stretch": {
-                  "x": 0.896057,
+                  "x": 0.89606,
                   "y": 1,
                   "z": 1
                 },
@@ -341,8 +1030,8 @@
                 "textureLayout": {
                   "bottom": {
                     "offset": {
-                      "x": 40,
-                      "y": 113
+                      "x": 0,
+                      "y": 131
                     },
                     "mirror": {
                       "x": false,
@@ -352,8 +1041,8 @@
                   },
                   "front": {
                     "offset": {
-                      "x": 54,
-                      "y": 148
+                      "x": 16,
+                      "y": 160
                     },
                     "mirror": {
                       "x": false,
@@ -363,19 +1052,19 @@
                   },
                   "left": {
                     "offset": {
-                      "x": 38,
-                      "y": 148
+                      "x": 16,
+                      "y": 160
                     },
                     "mirror": {
-                      "x": false,
+                      "x": true,
                       "y": false
                     },
                     "angle": 0
                   },
                   "right": {
                     "offset": {
-                      "x": 38,
-                      "y": 148
+                      "x": 0,
+                      "y": 160
                     },
                     "mirror": {
                       "x": false,
@@ -385,8 +1074,8 @@
                   },
                   "top": {
                     "offset": {
-                      "x": 60,
-                      "y": 113
+                      "x": 20,
+                      "y": 131
                     },
                     "mirror": {
                       "x": false,
@@ -398,26 +1087,26 @@
               }
             },
             {
-              "id": "169",
+              "id": "64",
               "name": "Top-Teeth",
-              "children": [],
+              "children": null,
               "position": {
                 "x": 0,
-                "y": -4,
-                "z": 1.5
+                "y": -5,
+                "z": 3
               },
               "orientation": {
-                "x": 0.087156,
+                "x": 0.08716,
                 "y": 0,
                 "z": 0,
-                "w": 0.996195
+                "w": 0.99619
               },
               "shape": {
                 "type": "box",
                 "offset": {
                   "x": 0,
-                  "y": 0,
-                  "z": 0
+                  "y": -0.5,
+                  "z": -3
                 },
                 "stretch": {
                   "x": 1,
@@ -427,7 +1116,7 @@
                 "settings": {
                   "size": {
                     "x": 18,
-                    "y": 7,
+                    "y": 8,
                     "z": 16
                   }
                 },
@@ -438,8 +1127,8 @@
                 "textureLayout": {
                   "front": {
                     "offset": {
-                      "x": 74,
-                      "y": 148
+                      "x": 77,
+                      "y": 160
                     },
                     "mirror": {
                       "x": false,
@@ -449,8 +1138,8 @@
                   },
                   "left": {
                     "offset": {
-                      "x": 16,
-                      "y": 159
+                      "x": 52,
+                      "y": 160
                     },
                     "mirror": {
                       "x": true,
@@ -460,8 +1149,8 @@
                   },
                   "right": {
                     "offset": {
-                      "x": 0,
-                      "y": 159
+                      "x": 36,
+                      "y": 160
                     },
                     "mirror": {
                       "x": false,
@@ -479,28 +1168,28 @@
             "z": 17.5
           },
           "orientation": {
-            "x": 0.130526,
+            "x": 0.13053,
             "y": 0,
             "z": 0,
-            "w": 0.991445
+            "w": 0.99144
           },
           "shape": {
             "type": "box",
             "offset": {
               "x": 0,
-              "y": 0,
-              "z": 4
+              "y": 1,
+              "z": 2.5
             },
             "stretch": {
-              "x": 0.8,
+              "x": 1.02,
               "y": 1,
               "z": 1
             },
             "settings": {
               "size": {
-                "x": 24,
-                "y": 11,
-                "z": 21
+                "x": 18,
+                "y": 13,
+                "z": 18
               }
             },
             "visible": true,
@@ -510,7 +1199,7 @@
             "textureLayout": {
               "bottom": {
                 "offset": {
-                  "x": 0,
+                  "x": 18,
                   "y": 113
                 },
                 "mirror": {
@@ -521,8 +1210,8 @@
               },
               "front": {
                 "offset": {
-                  "x": 0,
-                  "y": 148
+                  "x": 18,
+                  "y": 147
                 },
                 "mirror": {
                   "x": false,
@@ -532,8 +1221,8 @@
               },
               "left": {
                 "offset": {
-                  "x": 71,
-                  "y": 134
+                  "x": 18,
+                  "y": 147
                 },
                 "mirror": {
                   "x": true,
@@ -543,8 +1232,8 @@
               },
               "right": {
                 "offset": {
-                  "x": 50,
-                  "y": 134
+                  "x": 0,
+                  "y": 147
                 },
                 "mirror": {
                   "x": false,
@@ -554,8 +1243,8 @@
               },
               "top": {
                 "offset": {
-                  "x": 57,
-                  "y": 76
+                  "x": 0,
+                  "y": 113
                 },
                 "mirror": {
                   "x": false,
@@ -567,26 +1256,26 @@
           }
         },
         {
-          "id": "161",
+          "id": "65",
           "name": "L-Ear",
-          "children": [],
+          "children": null,
           "position": {
             "x": 17.56036,
-            "y": 16.712854,
-            "z": -3.325353
+            "y": 16.71285,
+            "z": -3.32535
           },
           "orientation": {
-            "x": 0.169696,
-            "y": -0.022842,
-            "z": -0.087427,
-            "w": 0.981345
+            "x": 0.16971,
+            "y": -0.02285,
+            "z": -0.08743,
+            "w": 0.98134
           },
           "shape": {
             "type": "box",
             "offset": {
-              "x": 0.000033,
-              "y": 6.000135,
-              "z": -0.000023
+              "x": 0.00003,
+              "y": 6.00014,
+              "z": -0.00002
             },
             "stretch": {
               "x": 1,
@@ -607,8 +1296,8 @@
             "textureLayout": {
               "back": {
                 "offset": {
-                  "x": 32,
-                  "y": 134
+                  "x": 40,
+                  "y": 131
                 },
                 "mirror": {
                   "x": false,
@@ -618,8 +1307,8 @@
               },
               "bottom": {
                 "offset": {
-                  "x": 16,
-                  "y": 159
+                  "x": 0,
+                  "y": 176
                 },
                 "mirror": {
                   "x": false,
@@ -629,8 +1318,8 @@
               },
               "front": {
                 "offset": {
-                  "x": 14,
-                  "y": 134
+                  "x": 58,
+                  "y": 131
                 },
                 "mirror": {
                   "x": false,
@@ -640,7 +1329,7 @@
               },
               "left": {
                 "offset": {
-                  "x": 83,
+                  "x": 92,
                   "y": 38
                 },
                 "mirror": {
@@ -651,8 +1340,8 @@
               },
               "right": {
                 "offset": {
-                  "x": 83,
-                  "y": 38
+                  "x": 86,
+                  "y": 113
                 },
                 "mirror": {
                   "x": false,
@@ -662,8 +1351,8 @@
               },
               "top": {
                 "offset": {
-                  "x": 34,
-                  "y": 159
+                  "x": 72,
+                  "y": 169
                 },
                 "mirror": {
                   "x": false,
@@ -675,19 +1364,19 @@
           }
         },
         {
-          "id": "164",
+          "id": "66",
           "name": "Head-Hair-R",
-          "children": [],
+          "children": null,
           "position": {
-            "x": -22.971816,
-            "y": -11.157994,
-            "z": 18.484531
+            "x": -22.97182,
+            "y": -11.15799,
+            "z": 18.48453
           },
           "orientation": {
             "x": 0,
             "y": -0.34202,
             "z": 0,
-            "w": 0.939693
+            "w": 0.93969
           },
           "shape": {
             "type": "quad",
@@ -716,7 +1405,7 @@
             "textureLayout": {
               "front": {
                 "offset": {
-                  "x": 46,
+                  "x": 36,
                   "y": 76
                 },
                 "mirror": {
@@ -729,19 +1418,19 @@
           }
         },
         {
-          "id": "165",
+          "id": "67",
           "name": "Head-Hair-L",
-          "children": [],
+          "children": null,
           "position": {
             "x": 22.96039,
-            "y": -11.161134,
-            "z": 18.448639
+            "y": -11.16113,
+            "z": 18.44864
           },
           "orientation": {
             "x": 0,
             "y": 0.34202,
             "z": 0,
-            "w": 0.939693
+            "w": 0.93969
           },
           "shape": {
             "type": "quad",
@@ -770,7 +1459,7 @@
             "textureLayout": {
               "front": {
                 "offset": {
-                  "x": 46,
+                  "x": 36,
                   "y": 76
                 },
                 "mirror": {
@@ -783,26 +1472,26 @@
           }
         },
         {
-          "id": "171",
+          "id": "68",
           "name": "R-Ear",
-          "children": [],
+          "children": null,
           "position": {
             "x": -17.56036,
-            "y": 16.712847,
-            "z": -3.325352
+            "y": 16.71285,
+            "z": -3.32535
           },
           "orientation": {
-            "x": 0.169696,
-            "y": 0.022842,
-            "z": 0.087427,
-            "w": 0.981345
+            "x": 0.16971,
+            "y": 0.02285,
+            "z": 0.08743,
+            "w": 0.98134
           },
           "shape": {
             "type": "box",
             "offset": {
-              "x": -0.000033,
-              "y": 6.000135,
-              "z": -0.000023
+              "x": -0.00003,
+              "y": 6.00014,
+              "z": -0.00002
             },
             "stretch": {
               "x": -1,
@@ -823,8 +1512,8 @@
             "textureLayout": {
               "back": {
                 "offset": {
-                  "x": 32,
-                  "y": 134
+                  "x": 40,
+                  "y": 131
                 },
                 "mirror": {
                   "x": false,
@@ -834,8 +1523,8 @@
               },
               "bottom": {
                 "offset": {
-                  "x": 16,
-                  "y": 159
+                  "x": 0,
+                  "y": 176
                 },
                 "mirror": {
                   "x": false,
@@ -845,8 +1534,8 @@
               },
               "front": {
                 "offset": {
-                  "x": 14,
-                  "y": 134
+                  "x": 58,
+                  "y": 131
                 },
                 "mirror": {
                   "x": false,
@@ -856,7 +1545,7 @@
               },
               "left": {
                 "offset": {
-                  "x": 83,
+                  "x": 92,
                   "y": 38
                 },
                 "mirror": {
@@ -867,8 +1556,8 @@
               },
               "right": {
                 "offset": {
-                  "x": 83,
-                  "y": 38
+                  "x": 86,
+                  "y": 113
                 },
                 "mirror": {
                   "x": false,
@@ -878,8 +1567,8 @@
               },
               "top": {
                 "offset": {
-                  "x": 34,
-                  "y": 159
+                  "x": 72,
+                  "y": 169
                 },
                 "mirror": {
                   "x": false,
@@ -891,13 +1580,13 @@
           }
         },
         {
-          "id": "183",
+          "id": "69",
           "name": "R-Eye-Background",
           "children": [
             {
-              "id": "184",
+              "id": "70",
               "name": "R-Eye",
-              "children": [],
+              "children": null,
               "position": {
                 "x": -0.5,
                 "y": 0,
@@ -936,8 +1625,8 @@
                 "textureLayout": {
                   "front": {
                     "offset": {
-                      "x": 0,
-                      "y": 134
+                      "x": 76,
+                      "y": 131
                     },
                     "mirror": {
                       "x": false,
@@ -950,7 +1639,7 @@
             }
           ],
           "position": {
-            "x": -10.5,
+            "x": -9.5,
             "y": 3,
             "z": 17.5
           },
@@ -987,8 +1676,8 @@
             "textureLayout": {
               "front": {
                 "offset": {
-                  "x": 24,
-                  "y": 113
+                  "x": 84,
+                  "y": 76
                 },
                 "mirror": {
                   "x": false,
@@ -1000,13 +1689,13 @@
           }
         },
         {
-          "id": "187",
+          "id": "71",
           "name": "L-Eye-Background",
           "children": [
             {
-              "id": "188",
+              "id": "72",
               "name": "L-Eye",
-              "children": [],
+              "children": null,
               "position": {
                 "x": 0.5,
                 "y": 0,
@@ -1045,8 +1734,8 @@
                 "textureLayout": {
                   "front": {
                     "offset": {
-                      "x": 14,
-                      "y": 134
+                      "x": 90,
+                      "y": 131
                     },
                     "mirror": {
                       "x": true,
@@ -1059,7 +1748,7 @@
             }
           ],
           "position": {
-            "x": 10.5,
+            "x": 9.5,
             "y": 3,
             "z": 17.5
           },
@@ -1096,14 +1785,122 @@
             "textureLayout": {
               "front": {
                 "offset": {
-                  "x": 24,
-                  "y": 113
+                  "x": 84,
+                  "y": 76
                 },
                 "mirror": {
                   "x": false,
                   "y": false
                 },
                 "angle": 0
+              }
+            }
+          }
+        },
+        {
+          "id": "73",
+          "name": "Head-Hair-Bot",
+          "children": null,
+          "position": {
+            "x": 0,
+            "y": -15.10594,
+            "z": -12.47624
+          },
+          "orientation": {
+            "x": -0.57387,
+            "y": 0.41313,
+            "z": -0.57387,
+            "w": 0.41313
+          },
+          "shape": {
+            "type": "quad",
+            "offset": {
+              "x": 11.4,
+              "y": -4.5,
+              "z": 0
+            },
+            "stretch": {
+              "x": -1.2,
+              "y": 1,
+              "z": 1
+            },
+            "settings": {
+              "size": {
+                "x": 19,
+                "y": 37,
+                "z": 0
+              },
+              "normal": "+Z"
+            },
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat",
+            "unwrapMode": "custom",
+            "textureLayout": {
+              "front": {
+                "offset": {
+                  "x": 47,
+                  "y": 95
+                },
+                "mirror": {
+                  "x": true,
+                  "y": true
+                },
+                "angle": 90
+              }
+            }
+          }
+        },
+        {
+          "id": "74",
+          "name": "Head-Hair-Bot",
+          "children": null,
+          "position": {
+            "x": 0,
+            "y": -17.59209,
+            "z": -9.6108
+          },
+          "orientation": {
+            "x": -0.10452,
+            "y": -0.10452,
+            "z": -0.69934,
+            "w": 0.69934
+          },
+          "shape": {
+            "type": "quad",
+            "offset": {
+              "x": 10.2,
+              "y": 0,
+              "z": -0.001
+            },
+            "stretch": {
+              "x": -1.2,
+              "y": 1,
+              "z": 1
+            },
+            "settings": {
+              "size": {
+                "x": 17,
+                "y": 50,
+                "z": 0
+              },
+              "normal": "+Z"
+            },
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat",
+            "unwrapMode": "custom",
+            "textureLayout": {
+              "front": {
+                "offset": {
+                  "x": 36,
+                  "y": 130
+                },
+                "mirror": {
+                  "x": true,
+                  "y": true
+                },
+                "angle": 90
               }
             }
           }
@@ -1146,8 +1943,8 @@
         "textureLayout": {
           "back": {
             "offset": {
-              "x": 46,
-              "y": 0
+              "x": 0,
+              "y": 38
             },
             "mirror": {
               "x": false,
@@ -1157,8 +1954,8 @@
           },
           "bottom": {
             "offset": {
-              "x": 0,
-              "y": 113
+              "x": 46,
+              "y": 75
             },
             "mirror": {
               "x": false,
@@ -1168,7 +1965,7 @@
           },
           "front": {
             "offset": {
-              "x": 0,
+              "x": 37,
               "y": 0
             },
             "mirror": {
@@ -1180,7 +1977,7 @@
           "left": {
             "offset": {
               "x": 37,
-              "y": 38
+              "y": 0
             },
             "mirror": {
               "x": true,
@@ -1191,18 +1988,7 @@
           "right": {
             "offset": {
               "x": 0,
-              "y": 38
-            },
-            "mirror": {
-              "x": false,
-              "y": false
-            },
-            "angle": 0
-          },
-          "top": {
-            "offset": {
-              "x": 37,
-              "y": 38
+              "y": 0
             },
             "mirror": {
               "x": false,

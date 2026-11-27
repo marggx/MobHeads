@@ -1,0 +1,42 @@
+{
+  "BlockType": {
+    "BlockParticleSetId": "Stone",
+    "BlockSoundSetId": "Plushie",
+    "CustomModel": "Blocks/Heads/Void_Spectre/Void_Spectre.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Heads/Void_Spectre/Head_Void_Spectre.png",
+        "Weight": 1
+      }
+    ],
+    "DrawType": "Model",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "Group": "Wood",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "PhysicalMaterialId": "Wool",
+    "VariantRotation": "NESW"
+  },
+  "Categories": [
+    "Heads.Heads"
+  ],
+  "Icon": "Icons/ItemsGenerated/Heads/Head_Void_Spectre.png",
+  "Interactions": {
+    "Primary": "Block_Primary",
+    "Secondary": "Block_Secondary"
+  },
+  "ItemSoundSetId": "ISS_Blocks_Wood",
+  "PlayerAnimationsId": "Item",
+  "Tags": {
+    "Type": [
+      "Deco"
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "Head_Void_Spectre"
+  }
+}

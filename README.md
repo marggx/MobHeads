@@ -3,7 +3,7 @@ A Plugin that adds all Mob Heads as Blocks.
 
 ---
 # Features
-- 228 mob heads as placeable blocks
+- 242 mob heads as placeable blocks
 - Heads drop from NPCs on death with configurable chance
 - Admin commands to configure drop behavior
 --- 
@@ -41,6 +41,13 @@ Suggestions, ideas, and feedback are welcome.
 ---
 
 # Socials
-### X: [@MarggxDev](https://x.com/MarggxDev)
 
-### Discord: [Marggx](https://discord.gg/rNZvMSb7eQ)
+### X: [@MarggxDev](https://l.marggx.dev/x)
+
+### Discord: [Marggx](https://l.marggx.dev/discord)
+
+### Reddit: [Marggx](https://l.marggx.dev/reddit)
+
+### YouTube: [Marggx](https://l.marggx.dev/yt)
+
+### Patreon: [Marggx](https://l.marggx.dev/patreon)

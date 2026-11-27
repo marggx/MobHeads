@@ -1,23 +1,23 @@
 {
   "nodes": [
     {
-      "id": "1",
+      "id": "6",
       "name": "Head",
       "children": [
         {
-          "id": "72",
+          "id": "7",
           "name": "Jaw",
-          "children": [],
+          "children": null,
           "position": {
             "x": 0,
             "y": -14,
             "z": 0.5
           },
           "orientation": {
-            "x": 0.043619,
+            "x": 0.04362,
             "y": 0,
             "z": 0,
-            "w": 0.999048
+            "w": 0.99905
           },
           "shape": {
             "type": "box",
@@ -45,8 +45,8 @@
             "textureLayout": {
               "back": {
                 "offset": {
-                  "x": 0,
-                  "y": 86
+                  "x": 32,
+                  "y": 72
                 },
                 "mirror": {
                   "x": false,
@@ -67,8 +67,8 @@
               },
               "front": {
                 "offset": {
-                  "x": 32,
-                  "y": 72
+                  "x": 0,
+                  "y": 86
                 },
                 "mirror": {
                   "x": false,
@@ -113,19 +113,19 @@
           }
         },
         {
-          "id": "75",
+          "id": "8",
           "name": "Jaw-Top",
-          "children": [],
+          "children": null,
           "position": {
             "x": 0,
             "y": -12,
             "z": 6
           },
           "orientation": {
-            "x": -0.026177,
+            "x": -0.02618,
             "y": 0,
             "z": 0,
-            "w": 0.999657
+            "w": 0.99966
           },
           "shape": {
             "type": "box",
@@ -153,7 +153,7 @@
             "textureLayout": {
               "back": {
                 "offset": {
-                  "x": 36,
+                  "x": 18,
                   "y": 86
                 },
                 "mirror": {
@@ -175,8 +175,8 @@
               },
               "front": {
                 "offset": {
-                  "x": 18,
-                  "y": 86
+                  "x": 0,
+                  "y": 91
                 },
                 "mirror": {
                   "x": false,
@@ -186,8 +186,8 @@
               },
               "left": {
                 "offset": {
-                  "x": 14,
-                  "y": 91
+                  "x": 50,
+                  "y": 86
                 },
                 "mirror": {
                   "x": true,
@@ -197,8 +197,8 @@
               },
               "right": {
                 "offset": {
-                  "x": 0,
-                  "y": 91
+                  "x": 36,
+                  "y": 86
                 },
                 "mirror": {
                   "x": false,
@@ -210,13 +210,13 @@
           }
         },
         {
-          "id": "79",
+          "id": "9",
           "name": "L-Eye-Attachment",
-          "children": [],
+          "children": null,
           "position": {
-            "x": -6.999972,
-            "y": -3.000022,
-            "z": 11.989581
+            "x": -6.99997,
+            "y": -3.00002,
+            "z": 11.98958
           },
           "orientation": {
             "x": 0,
@@ -244,13 +244,13 @@
           }
         },
         {
-          "id": "123",
+          "id": "10",
           "name": "R-Eye-Attachment",
-          "children": [],
+          "children": null,
           "position": {
-            "x": 6.999972,
-            "y": -3.000022,
-            "z": 11.989581
+            "x": 6.99997,
+            "y": -3.00002,
+            "z": 11.98958
           },
           "orientation": {
             "x": 0,
@@ -266,7 +266,7 @@
               "z": 0
             },
             "stretch": {
-              "x": -1,
+              "x": 1,
               "y": 1,
               "z": 1
             },
@@ -278,9 +278,9 @@
           }
         },
         {
-          "id": "85",
+          "id": "11",
           "name": "L-Ear-Attachment",
-          "children": [],
+          "children": null,
           "position": {
             "x": 0,
             "y": 0,
@@ -312,12 +312,12 @@
           }
         },
         {
-          "id": "86",
+          "id": "12",
           "name": "R-Ear-Attachment",
-          "children": [],
+          "children": null,
           "position": {
             "x": 0,
-            "y": -0.000003,
+            "y": 0,
             "z": 0
           },
           "orientation": {
@@ -334,7 +334,7 @@
               "z": 0
             },
             "stretch": {
-              "x": -1,
+              "x": 1,
               "y": 1,
               "z": 1
             },
@@ -346,13 +346,13 @@
           }
         },
         {
-          "id": "108",
+          "id": "13",
           "name": "L-Eyebrow-Attachment",
-          "children": [],
+          "children": null,
           "position": {
             "x": 8,
-            "y": 4.000004,
-            "z": 13.000001
+            "y": 4,
+            "z": 13
           },
           "orientation": {
             "x": 0,
@@ -380,13 +380,13 @@
           }
         },
         {
-          "id": "109",
+          "id": "14",
           "name": "R-Eyebrow-Attachment",
-          "children": [],
+          "children": null,
           "position": {
             "x": -8,
             "y": 4,
-            "z": 13.000001
+            "z": 13
           },
           "orientation": {
             "x": 0,
@@ -402,7 +402,7 @@
               "z": 0
             },
             "stretch": {
-              "x": -1,
+              "x": 1,
               "y": 1,
               "z": 1
             },
@@ -414,9 +414,9 @@
           }
         },
         {
-          "id": "110",
-          "name": "R-Eyelid",
-          "children": [],
+          "id": "15",
+          "name": "R-Eyelid-Top",
+          "children": null,
           "position": {
             "x": -7,
             "y": 1.5,
@@ -468,9 +468,9 @@
           }
         },
         {
-          "id": "111",
+          "id": "16",
           "name": "R-Eyelid-Bot",
-          "children": [],
+          "children": null,
           "position": {
             "x": -7,
             "y": -6,
@@ -522,9 +522,9 @@
           }
         },
         {
-          "id": "112",
-          "name": "L-Eyelid",
-          "children": [],
+          "id": "17",
+          "name": "L-Eyelid-Top",
+          "children": null,
           "position": {
             "x": 7,
             "y": 1.5,
@@ -576,9 +576,9 @@
           }
         },
         {
-          "id": "113",
+          "id": "18",
           "name": "L-Eyelid-Bot",
-          "children": [],
+          "children": null,
           "position": {
             "x": 7,
             "y": -6,
@@ -645,7 +645,7 @@
         "type": "box",
         "offset": {
           "x": 0,
-          "y": 9.999653,
+          "y": 9.99965,
           "z": 11.00002
         },
         "stretch": {

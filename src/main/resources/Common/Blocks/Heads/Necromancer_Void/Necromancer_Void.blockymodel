@@ -724,8 +724,8 @@
           },
           "bottom": {
             "offset": {
-              "x": 0,
-              "y": 28
+              "x": 84,
+              "y": 0
             },
             "mirror": {
               "x": false,
@@ -768,8 +768,8 @@
           },
           "top": {
             "offset": {
-              "x": 84,
-              "y": 0
+              "x": 0,
+              "y": 28
             },
             "mirror": {
               "x": false,

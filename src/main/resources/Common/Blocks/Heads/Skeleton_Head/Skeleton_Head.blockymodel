@@ -60,8 +60,8 @@
                   },
                   "left": {
                     "offset": {
-                      "x": 34,
-                      "y": 74
+                      "x": 46,
+                      "y": 51
                     },
                     "mirror": {
                       "x": false,
@@ -71,8 +71,8 @@
                   },
                   "right": {
                     "offset": {
-                      "x": 46,
-                      "y": 51
+                      "x": 34,
+                      "y": 74
                     },
                     "mirror": {
                       "x": false,
@@ -132,8 +132,8 @@
               },
               "bottom": {
                 "offset": {
-                  "x": 28,
-                  "y": 65
+                  "x": 0,
+                  "y": 88
                 },
                 "mirror": {
                   "x": false,
@@ -176,8 +176,8 @@
               },
               "top": {
                 "offset": {
-                  "x": 0,
-                  "y": 74
+                  "x": 28,
+                  "y": 51
                 },
                 "mirror": {
                   "x": false,
@@ -294,8 +294,8 @@
               },
               "bottom": {
                 "offset": {
-                  "x": 0,
-                  "y": 88
+                  "x": 28,
+                  "y": 65
                 },
                 "mirror": {
                   "x": false,

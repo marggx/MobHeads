@@ -1,13 +1,13 @@
 {
   "nodes": [
     {
-      "id": "1",
+      "id": "5",
       "name": "Head",
       "children": [
         {
-          "id": "206",
+          "id": "6",
           "name": "R-Eyebrow-Attachment",
-          "children": [],
+          "children": null,
           "position": {
             "x": -8,
             "y": 6,
@@ -39,9 +39,9 @@
           }
         },
         {
-          "id": "207",
+          "id": "7",
           "name": "L-Eyebrow-Attachment",
-          "children": [],
+          "children": null,
           "position": {
             "x": 8,
             "y": 6,
@@ -61,7 +61,7 @@
               "z": 0
             },
             "stretch": {
-              "x": -1,
+              "x": 1,
               "y": 1,
               "z": 1
             },
@@ -73,9 +73,9 @@
           }
         },
         {
-          "id": "208",
+          "id": "8",
           "name": "R-Eye-Attachment",
-          "children": [],
+          "children": null,
           "position": {
             "x": -7,
             "y": -4,
@@ -107,9 +107,9 @@
           }
         },
         {
-          "id": "209",
+          "id": "9",
           "name": "L-Eye-Attachment",
-          "children": [],
+          "children": null,
           "position": {
             "x": 7,
             "y": -4,
@@ -129,7 +129,7 @@
               "z": 0
             },
             "stretch": {
-              "x": -1,
+              "x": 1,
               "y": 1,
               "z": 1
             },
@@ -141,9 +141,9 @@
           }
         },
         {
-          "id": "214",
+          "id": "10",
           "name": "Mouth-Attachment",
-          "children": [],
+          "children": null,
           "position": {
             "x": 0,
             "y": -10,
@@ -175,9 +175,9 @@
           }
         },
         {
-          "id": "219",
+          "id": "11",
           "name": "L-Eyelid",
-          "children": [],
+          "children": null,
           "position": {
             "x": 8,
             "y": 2,
@@ -216,7 +216,7 @@
             "textureLayout": {
               "front": {
                 "offset": {
-                  "x": 10,
+                  "x": 16,
                   "y": 84
                 },
                 "mirror": {
@@ -229,9 +229,9 @@
           }
         },
         {
-          "id": "220",
+          "id": "12",
           "name": "R-Eyelid",
-          "children": [],
+          "children": null,
           "position": {
             "x": -8,
             "y": 2,
@@ -270,7 +270,7 @@
             "textureLayout": {
               "front": {
                 "offset": {
-                  "x": 10,
+                  "x": 16,
                   "y": 84
                 },
                 "mirror": {
@@ -283,9 +283,9 @@
           }
         },
         {
-          "id": "254",
+          "id": "13",
           "name": "L-Eyelid-Bot",
-          "children": [],
+          "children": null,
           "position": {
             "x": 8,
             "y": -8,
@@ -324,7 +324,7 @@
             "textureLayout": {
               "front": {
                 "offset": {
-                  "x": 19,
+                  "x": 25,
                   "y": 84
                 },
                 "mirror": {
@@ -337,9 +337,9 @@
           }
         },
         {
-          "id": "255",
+          "id": "14",
           "name": "R-Eyelid-Bot",
-          "children": [],
+          "children": null,
           "position": {
             "x": -8,
             "y": -8,
@@ -378,7 +378,7 @@
             "textureLayout": {
               "front": {
                 "offset": {
-                  "x": 19,
+                  "x": 25,
                   "y": 84
                 },
                 "mirror": {
@@ -391,17 +391,17 @@
           }
         },
         {
-          "id": "250",
+          "id": "15",
           "name": "L-Ear",
           "children": [
             {
-              "id": "251",
+              "id": "16",
               "name": "L-Ear2",
               "children": [
                 {
-                  "id": "267",
+                  "id": "17",
                   "name": "L-Ear2-Back",
-                  "children": [],
+                  "children": null,
                   "position": {
                     "x": -4,
                     "y": 0,
@@ -440,8 +440,8 @@
                     "textureLayout": {
                       "front": {
                         "offset": {
-                          "x": 50,
-                          "y": 56
+                          "x": 16,
+                          "y": 84
                         },
                         "mirror": {
                           "x": true,
@@ -491,8 +491,8 @@
                 "textureLayout": {
                   "front": {
                     "offset": {
-                      "x": 58,
-                      "y": 56
+                      "x": 8,
+                      "y": 84
                     },
                     "mirror": {
                       "x": true,
@@ -511,9 +511,9 @@
           },
           "orientation": {
             "x": 0.13003,
-            "y": 0.011376,
+            "y": 0.01138,
             "z": -0.08641,
-            "w": 0.987672
+            "w": 0.98767
           },
           "shape": {
             "type": "box",
@@ -541,7 +541,7 @@
             "textureLayout": {
               "back": {
                 "offset": {
-                  "x": 28,
+                  "x": 40,
                   "y": 56
                 },
                 "mirror": {
@@ -552,7 +552,7 @@
               },
               "bottom": {
                 "offset": {
-                  "x": 38,
+                  "x": 54,
                   "y": 84
                 },
                 "mirror": {
@@ -563,8 +563,8 @@
               },
               "front": {
                 "offset": {
-                  "x": 10,
-                  "y": 84
+                  "x": 40,
+                  "y": 56
                 },
                 "mirror": {
                   "x": true,
@@ -574,7 +574,7 @@
               },
               "left": {
                 "offset": {
-                  "x": 38,
+                  "x": 50,
                   "y": 56
                 },
                 "mirror": {
@@ -585,7 +585,7 @@
               },
               "right": {
                 "offset": {
-                  "x": 38,
+                  "x": 50,
                   "y": 56
                 },
                 "mirror": {
@@ -596,7 +596,7 @@
               },
               "top": {
                 "offset": {
-                  "x": 48,
+                  "x": 44,
                   "y": 84
                 },
                 "mirror": {
@@ -609,17 +609,17 @@
           }
         },
         {
-          "id": "252",
+          "id": "18",
           "name": "R-Ear",
           "children": [
             {
-              "id": "253",
+              "id": "19",
               "name": "R-Ear2",
               "children": [
                 {
-                  "id": "266",
+                  "id": "20",
                   "name": "R-Ear2-Back",
-                  "children": [],
+                  "children": null,
                   "position": {
                     "x": 4,
                     "y": 0,
@@ -658,8 +658,8 @@
                     "textureLayout": {
                       "front": {
                         "offset": {
-                          "x": 50,
-                          "y": 56
+                          "x": 16,
+                          "y": 84
                         },
                         "mirror": {
                           "x": true,
@@ -709,8 +709,8 @@
                 "textureLayout": {
                   "front": {
                     "offset": {
-                      "x": 58,
-                      "y": 56
+                      "x": 8,
+                      "y": 84
                     },
                     "mirror": {
                       "x": true,
@@ -729,9 +729,9 @@
           },
           "orientation": {
             "x": 0.13003,
-            "y": -0.011376,
+            "y": -0.01138,
             "z": 0.08641,
-            "w": 0.987672
+            "w": 0.98767
           },
           "shape": {
             "type": "box",
@@ -759,7 +759,7 @@
             "textureLayout": {
               "back": {
                 "offset": {
-                  "x": 28,
+                  "x": 40,
                   "y": 56
                 },
                 "mirror": {
@@ -770,7 +770,7 @@
               },
               "bottom": {
                 "offset": {
-                  "x": 38,
+                  "x": 54,
                   "y": 84
                 },
                 "mirror": {
@@ -781,8 +781,8 @@
               },
               "front": {
                 "offset": {
-                  "x": 10,
-                  "y": 84
+                  "x": 40,
+                  "y": 56
                 },
                 "mirror": {
                   "x": true,
@@ -792,7 +792,7 @@
               },
               "left": {
                 "offset": {
-                  "x": 38,
+                  "x": 50,
                   "y": 56
                 },
                 "mirror": {
@@ -803,7 +803,7 @@
               },
               "right": {
                 "offset": {
-                  "x": 38,
+                  "x": 50,
                   "y": 56
                 },
                 "mirror": {
@@ -814,7 +814,7 @@
               },
               "top": {
                 "offset": {
-                  "x": 48,
+                  "x": 44,
                   "y": 84
                 },
                 "mirror": {
@@ -864,8 +864,8 @@
         "textureLayout": {
           "back": {
             "offset": {
-              "x": 30,
-              "y": 28
+              "x": 0,
+              "y": 56
             },
             "mirror": {
               "x": false,
@@ -876,7 +876,7 @@
           "bottom": {
             "offset": {
               "x": 30,
-              "y": 0
+              "y": 28
             },
             "mirror": {
               "x": false,
@@ -887,7 +887,7 @@
           "front": {
             "offset": {
               "x": 0,
-              "y": 28
+              "y": 0
             },
             "mirror": {
               "x": false,
@@ -897,8 +897,8 @@
           },
           "left": {
             "offset": {
-              "x": 28,
-              "y": 56
+              "x": 58,
+              "y": 0
             },
             "mirror": {
               "x": true,
@@ -908,8 +908,8 @@
           },
           "right": {
             "offset": {
-              "x": 0,
-              "y": 56
+              "x": 30,
+              "y": 0
             },
             "mirror": {
               "x": false,
@@ -920,7 +920,7 @@
           "top": {
             "offset": {
               "x": 0,
-              "y": 0
+              "y": 28
             },
             "mirror": {
               "x": false,

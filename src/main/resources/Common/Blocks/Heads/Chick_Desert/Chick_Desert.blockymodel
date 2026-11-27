@@ -61,7 +61,7 @@
                   "bottom": {
                     "offset": {
                       "x": 24,
-                      "y": 0
+                      "y": 29
                     },
                     "mirror": {
                       "x": false,
@@ -105,7 +105,7 @@
                   "top": {
                     "offset": {
                       "x": 24,
-                      "y": 0
+                      "y": 29
                     },
                     "mirror": {
                       "x": false,
@@ -177,7 +177,7 @@
               "left": {
                 "offset": {
                   "x": 24,
-                  "y": 29
+                  "y": 0
                 },
                 "mirror": {
                   "x": false,
@@ -188,7 +188,7 @@
               "right": {
                 "offset": {
                   "x": 29,
-                  "y": 29
+                  "y": 0
                 },
                 "mirror": {
                   "x": true,

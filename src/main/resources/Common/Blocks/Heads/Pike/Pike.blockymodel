@@ -409,8 +409,8 @@
         "textureLayout": {
           "back": {
             "offset": {
-              "x": 0,
-              "y": 29
+              "x": 19,
+              "y": 0
             },
             "mirror": {
               "x": false,
@@ -420,7 +420,7 @@
           },
           "bottom": {
             "offset": {
-              "x": 21,
+              "x": 42,
               "y": 52
             },
             "mirror": {
@@ -431,8 +431,8 @@
           },
           "front": {
             "offset": {
-              "x": 40,
-              "y": 0
+              "x": 0,
+              "y": 29
             },
             "mirror": {
               "x": false,
@@ -442,7 +442,7 @@
           },
           "left": {
             "offset": {
-              "x": 19,
+              "x": 37,
               "y": 0
             },
             "mirror": {
@@ -453,7 +453,7 @@
           },
           "right": {
             "offset": {
-              "x": 40,
+              "x": 58,
               "y": 0
             },
             "mirror": {
@@ -464,7 +464,7 @@
           },
           "top": {
             "offset": {
-              "x": 21,
+              "x": 0,
               "y": 52
             },
             "mirror": {
